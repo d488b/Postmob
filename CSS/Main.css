@@ -12,7 +12,7 @@ body {
 header {
     border-bottom: 1px solid black;
     height: 70px;
-    position: fixed;
+/*    position: fixed;*/
     width: 100%;
     background-color: #4cb8ff;
 }
@@ -42,9 +42,20 @@ header {
 
 #home {
     height: 2000px;
-    padding-top: 100px;
     border-bottom: 1px solid black;
 
+}
+.item{
+    background: #000000;
+    text-align: center;
+    height: 705px !important;
+}
+
+.bs-example{
+    width: 100%;
+}
+#carousel-example-generic {
+    margin-top: 0;
 }
     #welcome {
         font-weight: bold;
@@ -133,7 +144,7 @@ header {
                             margin-left: 170px;
                         }
 #page2 {
-    height: 1000px;
+    height: 1150px;
     border-top: 1px solid black;
     border-bottom: 1px solid black;
     padding-top: 100px;
