@@ -5,22 +5,25 @@ span {
     font-size: 15px;
 
 }
-body {
+body, html {
     margin: 0 auto;
-    width: 100%;
+    min-width: 800px;
+    padding: 0;
 }
 header {
     border-bottom: 1px solid black;
-    height: 70px;
-/*    position: fixed;*/
+    height: auto;
     width: 100%;
-    background-color: #4cb8ff;
+    background-color: white;
+    overflow: hidden;
 }
     header div {
         float: left;
         text-align: left;
         margin-top: 30px;
-        margin-left: 30px;
+        margin-left: 100px;
+        color: black;
+        font-size: 20px;
     }
 
         header ul {
@@ -30,26 +33,33 @@ header {
             header ul li {
                 padding: 5px;
                 display: inline-block;
-                color: red;
                 margin-top: 10px;
             }
                 header a:link {
-                    color: white;
+                    color: black;
                     text-decoration: none;
                     font-size: 20px;
                     padding: 10px;
+
                 }
+                    header a:visited {
+                        color: black;
+                    }
 
 #home {
     height: 2000px;
     border-bottom: 1px solid black;
-
 }
-.item{
-    background: #000000;
-    text-align: center;
-    height: 705px !important;
-}
+    .carousel-inner {
+        height: 600px;
+    }
+        #home a {
+            height: 10%;
+            margin-top: 20%;
+            width: 50px;
+            margin-right: 10px;
+            background-color: transparent;
+        }
 
 .bs-example{
     width: 100%;
@@ -202,7 +212,7 @@ header {
                                             }
 footer {
     background-color: #4cb8ff;
-    height: 200px;
+    height: 150px;
 }
 #company {
     float: left;
