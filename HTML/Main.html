@@ -9,31 +9,23 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     <script src=”../JS/jquery.mobile.custom.min.js”></script>
-    <script>
-        $(document).ready(function() {
-            $("#myCarousel").swiperight(function() {
-                $("#myCarousel").carousel('prev');
-            });
-            $("#myCarousel").swipeleft(function() {
-                $("#myCarousel").carousel('next');
-            });
-        });
-    </script>
 </head>
 <body>
-    <header>
-        <img src="">
-        <div>POSTMOB</div>
-        <ul>
-            <li><a href="#page1">Messenger</a></li>
-            <li><a href="#page2">Trust</a></li>
-            <li><a href="">About Us</a></li>
-            <li><a href="">Contact</a></li>
-            <!--Facebook link-->
-            <!--Twitter link-->
-        </ul>
-    </header>
     <div id="home">
+        <header>
+            <a href="#home">
+                <img src="../IMAGES/Logo.png" alt="PostMob Logo">
+                <div>POSTMOB</div>
+            </a>
+            <ul>
+                <li><a href="#page1">Messenger</a></li>
+                <li><a href="#page2">Trust</a></li>
+                <li><a href="">About Us</a></li>
+                <li><a href="">Contact</a></li>
+                <!--Facebook link-->
+                <!--Twitter link-->
+            </ul>
+        </header>
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="false">
             <!-- Indicators -->
             <ol class="carousel-indicators">
@@ -48,7 +40,7 @@
                 <div class="item active">
                     <img src="../IMAGES/shutterstock_120154516.jpg" alt="...">
                     <div class="carousel-caption">
-                        ...1
+                        WELCOME TO POSTMOB
                     </div>
                 </div>
                 <div class="item">
@@ -72,35 +64,49 @@
                 </div>
             </div>
             <!-- Controls -->
-            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev" id="left">
                 <span class="glyphicon glyphicon-chevron-left"></span>
             </a>
-            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next" id="right">
                 <span class="glyphicon glyphicon-chevron-right"></span>
             </a>
         </div>
 <!--        <div><p id="welcome">Welcome to PostMob <span>&reg;</span></p><p id="info1">"The one app that stood out as a winner is PostMob. Not only did it cost on average 20% less than the
             normal courier service, but it gives you the ability to be in control"-<br>The Wall Street Journal Reviews Ride Share Apps</p></div>-->
         <!--App store link 1 & 2-->
-        <!--Image of how to Postmob-->
     <div id="question">
+        <img src="../IMAGES/top.png" class="top-bottom">
+        <img src="../IMAGES/stamp.png" id="stamp">
         <p id="question1">What is PostMob?</p>
         <p id="info2">PostMob is a mobile application that will work as a shipping platform in order to connect<br>travelers with people looking to ship goods</p>
+        <img src="../IMAGES/bottom.png" class="top-bottom">
     </div>
-        <div>
-            <div id="claim"><p class="bold" id="statement">Get a better deal!</p><p id="statement2">Travelers have now the ability to earn extra cash, and satisfy the customer<br>by offering a better deal
-            to shit goods! Here's how it works:</p></div>
-            <!--Diagram-->
-            <div><p id="claim2" class="bold">Know the price up front</p><p id="claim3">PostMob will give you a fixed price as soon as you specify your destination. We work hard on giving you
-            the best deal out there! Just tell us where you want it shipped, and we will take care of the rest!</p></div>
-            <!--Image of Newsfeed-->
+        <div id="claim">
+            <div>
+                <p class="bold" id="statement">Get a better deal!</p><p id="statement2">Travelers have now the ability to earn extra cash, and satisfy the customer<br>by offering a better deal
+                to ship goods! Here's how it works:</p>
+            </div>
+                <img src="../IMAGES/circles.png" id="circles">
+                <br>
+                <p id="declaration1">Travelers take advantage of their commute by offering to ship goods</p>
+                <p id="declaration2">This allows the driver to take full advantage of the ride and earn some extra cash</p>
+                <p id="declaration3">Which will give the customer the best possible deal</p>
+                <img src="../IMAGES/phone.png" id="phone" align="center">
+            <div>
+                <p id="claim2" class="bold">Know the price up front</p><p id="claim3">PostMob will give you a fixed price as soon as you specify your destination. We work hard on giving you
+                the best deal out there! Just tell us where you want it shipped, and we will take care of the rest!</p>
+            </div>
+
         </div>
     </div>
     <div id="page1">
+        <img src="../IMAGES/envelope.png" id="envelope">
+        <img src="../IMAGES/poststamp.png" id="poststamp">
+
+<!--        <img src="../IMAGES/">-->
         <div id="choose" class="bold">Choose your messenger</div>
         <div id="info3">Postmob gives you the flexibility to choose your courier experience, by choosing your traveler at the time that is convenient for you.</div>
         <!--Image showing how to choose your messenger on the right side of page-->
-        <br>
         <div id="selection" class="bold">Make your selection based on...</div>
         <div id="choices">
             <ul>
@@ -109,10 +115,12 @@
                 <li>Trust</li>
             </ul>
         </div>
+        <div id="rating-wrapper">
         <div id="rating" class="bold">Messenger Rating</div>
+        <img src="../IMAGES/phone3.png" id="phone1">
         <div id="info4">We strive on giving you the best service possible, we have a community that works day and night in order to get you the best possible messenger.
         We have a rating system established that will make sure that the messenger you get will be trustworthy.</div>
-        <!--Image showing messengers rating-->
+        </div>
     </div>
     <div id="page2">
         <div id="trust" class="bold">Trust</div>
@@ -170,5 +178,23 @@
         </ul>
             </div>
     </footer>
+    <div id="protection">
+
+
+
+
+
+    </div>
+    <div id="money">
+
+
+    </div>
+    <div id="help1">
+
+    </div>
+    <div id="questions1">
+
+    </div>
+
 </body>
 </html>
