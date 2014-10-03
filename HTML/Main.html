@@ -8,39 +8,53 @@
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-    <script src=”../JS/jquery.mobile.custom.min.js”></script>
 </head>
 <body>
     <div id="home">
         <header>
-            <a href="#home">
-                <img src="../IMAGES/Logo.png" alt="PostMob Logo">
-                <div>POSTMOB</div>
-            </a>
-            <ul>
-                <li><a href="#page1">Messenger</a></li>
-                <li><a href="#page2">Trust</a></li>
-                <li><a href="">About Us</a></li>
-                <li><a href="">Contact</a></li>
-                <!--Facebook link-->
-                <!--Twitter link-->
-            </ul>
+        <nav class="navbar navbar-default" role="navigation" id="navbar">
+            <div class="container-fluid">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a href="#home"><img id="logo" src="../IMAGES/Logo.png"></a>
+                    <a href="#home" id="logo1">POSTMOB</a>
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="#page1">MESSENGER</a></li>
+                        <li><a href="#page2">TRUST</a></li>
+                        <li><a href="#">ABOUT US</a></li>
+                        <li><a href="#">CONTACT</a></li>
+                        <a href="https://www.facebook.com/postmobapp" target="_blank"><img src="http://static.viewbook.com/images/social_icons/facebook_32.png"/></a>
+                        <a href="http://www.twitter.com/postmobapp" target="_blank"><img src="../IMAGES/twitter_32.png"/></a>
+                        <a href="http://instagram.com/postmobapp" target="_blank"><img id="instagram" src="../IMAGES/insta.png"/></a>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+            </div><!-- /.container-fluid -->
+        </nav>
         </header>
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="false">
-            <!-- Indicators -->
             <ol class="carousel-indicators">
                 <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="1"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="2"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="3"></li>
             </ol>
-
-            <!-- Wrapper for slides -->
             <div class="carousel-inner">
                 <div class="item active">
                     <img src="../IMAGES/shutterstock_120154516.jpg" alt="...">
                     <div class="carousel-caption">
-                        WELCOME TO POSTMOB
+                        <h4>WELCOME TO POSTMOB</h4>
                     </div>
                 </div>
                 <div class="item">
@@ -64,16 +78,13 @@
                 </div>
             </div>
             <!-- Controls -->
-            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev" id="left">
-                <span class="glyphicon glyphicon-chevron-left"></span>
-            </a>
-            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next" id="right">
-                <span class="glyphicon glyphicon-chevron-right"></span>
-            </a>
+        <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev" id="left">
+            <span class="icon-prev"></span>
+        </a>
+        <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next" id="right">
+            <span class="icon-next"></span>
+        </a>
         </div>
-<!--        <div><p id="welcome">Welcome to PostMob <span>&reg;</span></p><p id="info1">"The one app that stood out as a winner is PostMob. Not only did it cost on average 20% less than the
-            normal courier service, but it gives you the ability to be in control"-<br>The Wall Street Journal Reviews Ride Share Apps</p></div>-->
-        <!--App store link 1 & 2-->
     <div id="question">
         <img src="../IMAGES/top.png" class="top-bottom">
         <img src="../IMAGES/stamp.png" id="stamp">
@@ -102,24 +113,17 @@
     <div id="page1">
         <img src="../IMAGES/envelope.png" id="envelope">
         <img src="../IMAGES/poststamp.png" id="poststamp">
-
-<!--        <img src="../IMAGES/">-->
         <div id="choose" class="bold">Choose your messenger</div>
         <div id="info3">Postmob gives you the flexibility to choose your courier experience, by choosing your traveler at the time that is convenient for you.</div>
         <!--Image showing how to choose your messenger on the right side of page-->
         <div id="selection" class="bold">Make your selection based on...</div>
-        <div id="choices">
-            <ul>
-                <li>Messenger Rating</li>
-                <li>Price</li>
-                <li>Trust</li>
-            </ul>
-        </div>
+        <!--Choices Bar-->
         <div id="rating-wrapper">
-        <div id="rating" class="bold">Messenger Rating</div>
-        <img src="../IMAGES/phone3.png" id="phone1">
-        <div id="info4">We strive on giving you the best service possible, we have a community that works day and night in order to get you the best possible messenger.
-        We have a rating system established that will make sure that the messenger you get will be trustworthy.</div>
+            <img src="../IMAGES/Logopattern.png" id="pattern">
+            <div id="rating" class="bold">Messenger Rating</div>
+            <div id="info4">We strive on giving you the best service possible, we have a community that works day and night in order to get you the best possible messenger.
+            We have a rating system established that will make sure that the messenger you get will be trustworthy.</div>
+            <img src="../IMAGES/phone3.png" id="phone1">
         </div>
     </div>
     <div id="page2">
