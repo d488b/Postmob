@@ -3,25 +3,18 @@
 }
 span {
     font-size: 15px;
-
 }
-body, html {
-    margin: 0 auto;
+html, body {
     min-width: 1200px;
-    padding: 0;
 }
-    header {
-        position: fixed;
-        width: 100%;
-        z-index: 1;
-    }
-        #navbar {
-            height: 80px;
-            border-radius: 0;
-        }
+#navbar {
+      height: 80px;
+      border-radius: 0;
+      position: fixed;
+      width: 100%;
+}
             #navbar ul img {
                 margin-top: 20px;
-
             }
                 #navbar ul li a {
                     padding-right: 10px;
@@ -52,45 +45,42 @@ body, html {
                                 font-style: italic;
                             }
 
-#home {
-    height: 1000px;
-}
-    .carousel-inner {
-        height: 600px;
-    }
-
-.bs-example{
-    width: 100%;
-}
-#carousel-example-generic {
-    padding-top: 80px;
-}
-    #left {
-        height: 80px;
-        width: 100px;
-        margin-top: 350px;
-
-    }
-        #right {
-            height: 80px;
-            width: 100px;
-            margin-top: 350px;
-        }
-
     #welcome {
-        font-weight: bold;
-        font-size: 30px;
-        margin-top: 100px;
-        margin-left: 100px;
+        padding-top: 100px;
+        height: 850px;
+        background-color: white;
+        min-width: 1200px;
     }
         #info1 {
             width: 360px;
             margin-left: 100px;
             font-size: 20px;
         }
+            #piecesA {
+                height: 300px;
+                float: left;
+                margin-left: 25%;
+                margin-top: 5%;
+            }
+                #welcome-home {
+                    color: #4392FF;
+                    margin-left: 170px;
+                    width: 650px;
+                    float: left;
+                    margin-top: 100px;
+                    font-size: 50px;
+                }
+                    #phoneA {
+                        height: 70%;
+                        margin-top: 5%;
+                        float: right;
+                        margin-right: 20%;
+                    }
+
+
 
 #question {
-    margin-top: 400px;
+    margin-top: 0px;
     border-top: 1px solid black;
     border-bottom: 1px solid black;
 
@@ -111,8 +101,17 @@ body, html {
                 text-align: center;
                 padding-top: 100px;
                 background-color: #4392FF;
+                background: rgb(64,150,238); /* Old browsers */
+                background: -moz-linear-gradient(top,  rgba(64,150,238,1) 45%, rgba(237,237,237,1) 96%); /* FF3.6+ */
+                background: -webkit-gradient(linear, left top, left bottom, color-stop(45%,rgba(64,150,238,1)), color-stop(96%,rgba(237,237,237,1))); /* Chrome,Safari4+ */
+                background: -webkit-linear-gradient(top,  rgba(64,150,238,1) 45%,rgba(237,237,237,1) 96%); /* Chrome10+,Safari5.1+ */
+                background: -o-linear-gradient(top,  rgba(64,150,238,1) 45%,rgba(237,237,237,1) 96%); /* Opera 11.10+ */
+                background: -ms-linear-gradient(top,  rgba(64,150,238,1) 45%,rgba(237,237,237,1) 96%); /* IE10+ */
+                background: linear-gradient(to bottom,  rgba(64,150,238,1) 45%,rgba(237,237,237,1) 96%); /* W3C */
+                filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4096ee', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */
                 color: white;
                 height: 1300px;
+                min-width: 1200px;
             }
                 #statement {
                     font-size: 40px;
@@ -125,12 +124,13 @@ body, html {
                             font-size: 40px;
                             margin-bottom: 30px;
                             text-align: center;
+                            color: #4392FF;
                         }
                             #claim3 {
-                                margin-top: 0;
                                 text-align: center;
                                 padding-left: 300px;
                                 padding-right: 300px;
+                                color: #4392FF;
                             }
                                 #stamp {
                                     margin-left: 80%;
@@ -152,9 +152,9 @@ body, html {
                                             }
                                                 #phone {
                                                     height: 40%;
-                                                    margin-top: 20px;
+                                                    margin-top: 10px;
                                                     margin-right: 12%;
-                                                    margin-left: 12%;
+                                                    margin-left: 10%;
 
 
                                                 }
@@ -172,14 +172,18 @@ body, html {
                                                             margin-left: 20%;
                                                         }
                                                             #declaration3 {
-                                                                width: 13%;
+                                                                width: 15%;
                                                                 display: inline-block;
-                                                                margin-right: 12%;
+                                                                margin-left: 100px;
                                                             }
 #page1 {
     height: 1300px;
     width: 100%;
+    min-width: 1200px;
     z-index: -1;
+    background-image: url('../IMAGES/envelope.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
     #choose {
         font-size: 35px;
@@ -224,12 +228,11 @@ body, html {
                             max-height: 100px;
                             margin-top: 20px;
                         }
-                            #envelope {
-                                width: 100%;
-                            }
                                 #poststamp {
                                     width: 25%;
                                     margin-left: 60%;
+                                    margin-top: 50px;
+                                    margin-bottom: 30px;
 
                                 }
                                     #choices {
