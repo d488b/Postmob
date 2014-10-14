@@ -73,7 +73,7 @@ h6 {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
-    color: #fff;
+    color: white;
     background-color: #fed136;
 }
 
@@ -253,7 +253,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #4392FF;
+        background-color: white;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -265,7 +265,7 @@ header {
     text-align: center;
     color: white;
     background-attachment: scroll;
-    background-image: url(../IMAGES/shutterstock_134907293.jpg);
+    background-image: url(../IMAGES/frontpage.png);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;

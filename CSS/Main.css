@@ -224,18 +224,14 @@ span {
         #verify {
             width:20%;
             margin-left: 100px;
-            float: left;
             margin-right: 120px;
         }
-            #toknow {
-                float: left;
+            #getoknow {
                 width: 20%;
                 margin-right: 120px;
             }
                     #messaging1 {
                         width: 20%;
-                        float: left;
-                        clear: right;
                     }
                         #secure {
                             clear: both;
@@ -301,6 +297,7 @@ footer {
                             footer h4 {
                                 color: black;
                             }
+
 
 
 
