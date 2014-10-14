@@ -175,15 +175,14 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: black;
+    color: white;
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: white;
+    color: black;
 }
 
 .navbar-default .navbar-collapse {
@@ -209,27 +208,26 @@ fieldset[disabled] .btn-xl.active {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
-    color: black;
+    color: white;
 }
 
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: white;
+    color: black;
 }
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: white;
-    background-color: #4392FF;
+    background-color: #00739D;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
-    background-color: #4392FF;
+    background-color: #00739D;
 }
-
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
@@ -253,7 +251,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: white;
+        background-color: #0083B3;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {

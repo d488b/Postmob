@@ -5,7 +5,7 @@ span {
     font-size: 15px;
 }
 #download-button {
-    border: 1px solid black;
+    border: 1px solid white;
     border-radius: 10px;
 }
 #question {
@@ -30,7 +30,6 @@ span {
                 text-align: center;
                 padding-top: 100px;
 
-
                 /* IE10 Consumer Preview */
                 background-image: -ms-radial-gradient(center, ellipse farthest-corner, #4392FF 0%, #EFEFEF 100%);
 
@@ -49,7 +48,7 @@ span {
                 /* W3C Markup, IE10 Release Preview */
                 background-image: radial-gradient(ellipse farthest-corner at center, #4392FF 0%, #EFEFEF 100%);
                 color: white;
-                height: 1300px;
+                height: 1600px;
                 min-width: 1200px;
             }
                 #statement {
@@ -261,7 +260,7 @@ span {
                                                 text-align: center;
                                             }
 footer {
-    background-color: #4392FF;
+    background-color: #0083B3;
     height: 250px;
 }
 #company {
@@ -272,7 +271,8 @@ footer {
 }                                            
     #discover {
         float: left;
-        margin-right: 250px;
+        margin-right: 150px;
+        margin-left: 50px;
     }
         #policies {
             display: inline-block;
