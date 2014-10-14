@@ -4,81 +4,10 @@
 span {
     font-size: 15px;
 }
-html, body {
-    min-width: 1200px;
+#download-button {
+    border: 1px solid black;
+    border-radius: 10px;
 }
-#navbar {
-      height: 80px;
-      border-radius: 0;
-      position: fixed;
-      width: 100%;
-}
-            #navbar ul img {
-                margin-top: 20px;
-            }
-                #navbar ul li a {
-                    padding-right: 10px;
-                    margin-right: 5px;
-                    font-size: 20px;
-                    margin-top: 12px;
-                    padding-left: 0px;
-                    color: #4392FF;
-                    font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
-                }
-
-                    #instagram {
-                        height: 32px;
-                        width: 32px;
-                    }
-                        #logo {
-                            height: 50px;
-                            margin-top: 10px;
-                            float: left;
-                        }
-                            #logo1 {
-                                color: #4392FF;
-                                text-decoration: none;
-                                font-size: 30px;
-                                margin-top: 12px;
-                                margin-left: 5px;
-                                float: left;
-                                font-style: italic;
-                            }
-
-    #welcome {
-        padding-top: 100px;
-        height: 850px;
-        background-color: white;
-        min-width: 1200px;
-    }
-        #info1 {
-            width: 360px;
-            margin-left: 100px;
-            font-size: 20px;
-        }
-            #piecesA {
-                height: 300px;
-                float: left;
-                margin-left: 25%;
-                margin-top: 5%;
-            }
-                #welcome-home {
-                    color: #4392FF;
-                    margin-left: 170px;
-                    width: 650px;
-                    float: left;
-                    margin-top: 100px;
-                    font-size: 50px;
-                }
-                    #phoneA {
-                        height: 70%;
-                        margin-top: 5%;
-                        float: right;
-                        margin-right: 20%;
-                    }
-
-
-
 #question {
     margin-top: 0px;
     border-top: 1px solid black;
@@ -100,15 +29,25 @@ html, body {
             #claim {
                 text-align: center;
                 padding-top: 100px;
-                background-color: #4392FF;
-                background: rgb(64,150,238); /* Old browsers */
-                background: -moz-linear-gradient(top,  rgba(64,150,238,1) 45%, rgba(237,237,237,1) 96%); /* FF3.6+ */
-                background: -webkit-gradient(linear, left top, left bottom, color-stop(45%,rgba(64,150,238,1)), color-stop(96%,rgba(237,237,237,1))); /* Chrome,Safari4+ */
-                background: -webkit-linear-gradient(top,  rgba(64,150,238,1) 45%,rgba(237,237,237,1) 96%); /* Chrome10+,Safari5.1+ */
-                background: -o-linear-gradient(top,  rgba(64,150,238,1) 45%,rgba(237,237,237,1) 96%); /* Opera 11.10+ */
-                background: -ms-linear-gradient(top,  rgba(64,150,238,1) 45%,rgba(237,237,237,1) 96%); /* IE10+ */
-                background: linear-gradient(to bottom,  rgba(64,150,238,1) 45%,rgba(237,237,237,1) 96%); /* W3C */
-                filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4096ee', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */
+
+
+                /* IE10 Consumer Preview */
+                background-image: -ms-radial-gradient(center, ellipse farthest-corner, #4392FF 0%, #EFEFEF 100%);
+
+                /* Mozilla Firefox */
+                background-image: -moz-radial-gradient(center, ellipse farthest-corner, #4392FF 0%, #EFEFEF 100%);
+
+                /* Opera */
+                background-image: -o-radial-gradient(center, ellipse farthest-corner, #4392FF 0%, #EFEFEF 100%);
+
+                /* Webkit (Safari/Chrome 10) */
+                background-image: -webkit-gradient(radial, center center, 0, center center, 497, color-stop(0, #4392FF), color-stop(1, #EFEFEF));
+
+                /* Webkit (Chrome 11+) */
+                background-image: -webkit-radial-gradient(center, ellipse farthest-corner, #4392FF 0%, #EFEFEF 100%);
+
+                /* W3C Markup, IE10 Release Preview */
+                background-image: radial-gradient(ellipse farthest-corner at center, #4392FF 0%, #EFEFEF 100%);
                 color: white;
                 height: 1300px;
                 min-width: 1200px;
@@ -124,7 +63,7 @@ html, body {
                             font-size: 40px;
                             margin-bottom: 30px;
                             text-align: center;
-                            color: #4392FF;
+                            color: white;
                         }
                             #claim3 {
                                 text-align: center;
@@ -180,10 +119,10 @@ html, body {
     height: 1300px;
     width: 100%;
     min-width: 1200px;
-    z-index: -1;
     background-image: url('../IMAGES/envelope.png');
     background-repeat: no-repeat;
     background-size: 100%;
+    background-repeat: none;
 }
     #choose {
         font-size: 35px;
@@ -250,7 +189,7 @@ html, body {
                                                     position: relative;
                                                     z-index: -1;
                                                     min-width: 1200px;
-                                                    height: 100%;
+                                                    height: 787px;
                                                 }
                                                     #pattern {
                                                         height: 300px;
@@ -263,16 +202,24 @@ html, body {
                                                     }
 
 #page2 {
-    height: 1150px;
+    height: 1250px;
     border-bottom: 1px solid black;
     padding-top: 100px;
-    background-image: url('../IMAGES/trust.png');
+    background-image: url('../IMAGES/people.png');
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-attachment: scroll;
+    background-size: 100% 100%;
 }
     #trust {
         text-align: center;
         font-size: 40px;
         margin-bottom: 200px;
-        color: white;
+        color: black;
     }
         #verify {
             width:20%;
@@ -322,7 +269,7 @@ html, body {
                                             }
 footer {
     background-color: #4392FF;
-    height: 150px;
+    height: 250px;
 }
 #company {
     float: left;
@@ -349,6 +296,7 @@ footer {
                     }
                         footer a:link {
                             color: white;
+                            text-decoration: none;
                         }
                             footer h4 {
                                 color: black;
