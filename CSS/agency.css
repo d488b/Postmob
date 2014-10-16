@@ -264,7 +264,6 @@ fieldset[disabled] .btn-xl.active {
 header {
     text-align: center;
     color: white;
-    background-attachment: scroll;
     background-image: url(../IMAGES/frontpage.png);
     background-position: center center;
     background-repeat: none;
@@ -272,6 +271,8 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    background-position: 100% 100%;
+    height: 780px;
 }
 
 header .intro-text {
@@ -737,11 +738,12 @@ footer ul.quicklinks {
 }
 
 ul.social-buttons {
-    margin-bottom: 0;
+    margin-bottom: 0px;
 }
 
 ul.social-buttons li a {
-    display: block;
+    display: inline-block;
+    margin-top: 50px;
     width: 40px;
     height: 40px;
     border-radius: 100%;
@@ -758,7 +760,9 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-    background-color: #fed136;
+    background-color: white;
+    color: black;
+
 }
 
 .btn:focus,

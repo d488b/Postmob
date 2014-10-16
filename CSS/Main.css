@@ -1,6 +1,9 @@
 .bold {
     font-weight: bold;
 }
+.white {
+    color: white;
+}
 span {
     font-size: 15px;
 }
@@ -203,7 +206,7 @@ span {
                                                     padding-bottom: 100px;
                                                 }
                                                     #pattern {
-                                                        height: 300px;
+                                                        height: 100%;
                                                         float: left;
                                                         clear: right;
                                                         padding: 40px;
@@ -213,35 +216,42 @@ span {
                                                         #messenger-bar {
                                                             width: 100%;
                                                             margin-left: 80px;
+                                                            height: 80px;
                                                         }
 
 #page2 {
     height: 100%;
+    width: 100%;
     border-bottom: 1px solid black;
     padding-top: 100px;
-    background-image: url('../IMAGES/trust.png');
+    background-image: url('../IMAGES/Trustbg.png');
     background-position: center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    background-size: 100%;
+    background-size: 100% 100%;
     padding-bottom: 200px;
+    background-repeat: no-repeat;
 }
     #trust {
         text-align: center;
         font-size: 40px;
-        margin-bottom: 200px;
-        color: black;
+        margin-bottom: 100px;
     }
         #verify {
             width:20%;
+            margin-left: 50%;
+            padding-top: 30px;
         }
-            #getoknow {
-                width: 20%;
+            #profile {
+                margin-left: 50%;
+                margin-top: 40px;
             }
                     #messaging1 {
                         width: 20%;
+                        margin-left: 50%;
+                        margin-top: 70px;
                     }
                         #secure {
                             clear: both;
@@ -273,9 +283,29 @@ span {
                                             #help {
                                                 text-align: center;
                                             }
+                                                #img1 {
+                                                    height: 140px;
+                                                    width: 170px;
+                                                    margin-left: 250px;
+                                                    float: left;
+                                                    margin-right: 150px;
+                                                }
+                                                    #img2 {
+                                                        height: 140px;
+                                                        width: 170px;
+                                                        margin-left: 250px;
+                                                        float: left;
+                                                    }
+                                                        #img3 {
+                                                            height: 140px;
+                                                            width: 170px;
+                                                            margin-left: 250px;
+                                                            float: left;
+                                                            clear: left;
+                                                        }
 footer {
     background-color: #0083B3;
-    height: 250px;
+    height: 180px;
 }
 #company {
     float: left;
@@ -283,13 +313,9 @@ footer {
     margin-left: 150px;
     margin-right: 250px;
 }                                            
-    #discover {
-        float: left;
-        margin-right: 150px;
-        margin-left: 50px;
-    }
         #policies {
             display: inline-block;
+            float: left;
         }
             .footer {
                 list-style: none;
