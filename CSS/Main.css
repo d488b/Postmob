@@ -8,6 +8,13 @@ span {
     border: 1px solid white;
     border-radius: 10px;
 }
+#logo {
+    height: 50px;
+    float: left;
+}
+    #name {
+        padding-top: 13px;
+    }
 #question {
     margin-top: 0px;
     border-top: 1px solid black;
@@ -115,18 +122,16 @@ span {
                                                                 margin-left: 100px;
                                                             }
 #page1 {
-    height: 1300px;
     width: 100%;
-    min-width: 1200px;
     background-image: url('../IMAGES/envelope.png');
     background-repeat: no-repeat;
     background-size: 100%;
-    background-repeat: none;
 }
     #choose {
         font-size: 35px;
         text-align: center;
         color: #4392FF;
+        margin-top: 400px;
     }
         #info3 {
             width: 20%;
@@ -136,12 +141,13 @@ span {
             color: #4392FF;
         }
             #selection {
-                padding-left: 100px;
+                padding-left: 110px;
                 margin-top: 120px;
                 font-size: 30px;
                 background-image: url('../IMAGES/stamp1.png');
                 background-size: 100%;
                 padding-top: 30px;
+                color: #0083B3;
             }
                 #choices ul li{
                     border: 1px solid black;
@@ -182,13 +188,14 @@ span {
                                             #phone1 {
                                                 height: 550px;
                                                 margin-left: 200px;
+                                                margin-top: 40px;
                                             }
                                                 #rating-wrapper {
                                                     background-color: #F5EAE6;
                                                     position: relative;
                                                     z-index: -1;
                                                     min-width: 1200px;
-                                                    height: 787px;
+                                                    padding-bottom: 100px;
                                                 }
                                                     #pattern {
                                                         height: 300px;
@@ -197,22 +204,24 @@ span {
                                                         padding: 40px;
                                                         margin-left: 100px;
                                                         width: 700px;
-
                                                     }
+                                                        #messenger-bar {
+                                                            width: 100%;
+                                                            margin-left: 80px;
+                                                        }
 
 #page2 {
-    height: 800px;
+    height: 100%;
     border-bottom: 1px solid black;
     padding-top: 100px;
-    background-image: url('../IMAGES/people.png');
-    background-repeat: no-repeat;
+    background-image: url('../IMAGES/trust.png');
     background-position: center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    background-attachment: scroll;
     background-size: 100%;
+    padding-bottom: 200px;
 }
     #trust {
         text-align: center;

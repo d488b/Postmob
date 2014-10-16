@@ -176,6 +176,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     color: white;
+    padding-top: 0;
 }
 
 .navbar-default .navbar-brand:hover,
