@@ -20,7 +20,6 @@ span {
         .container {
             width: 100% !important;
         }
-
 #question {
     margin-top: 0px;
     border-top: 1px solid black;
@@ -223,7 +222,7 @@ span {
     width: 100%;
     border-bottom: 1px solid black;
     padding-top: 100px;
-    background-image: url('../IMAGES/Trustbg.png');
+    background-image: url('../IMAGES/phone.jpeg');
     background-position: center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
