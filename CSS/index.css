@@ -126,12 +126,7 @@ span {
                                                                 display: inline-block;
                                                                 margin-left: 100px;
                                                             }
-#page1 {
-    width: 100%;
-    background-image: url('../IMAGES/envelope.png');
-    background-repeat: no-repeat;
-    background-size: 100%;
-}
+
     #choose {
         font-size: 35px;
         text-align: center;
@@ -149,9 +144,6 @@ span {
                 padding-left: 110px;
                 margin-top: 120px;
                 font-size: 30px;
-                background-image: url('../IMAGES/stamp1.png');
-                background-size: 100%;
-                padding-top: 30px;
                 color: #00A3df;
             }
                 #choices ul li{
@@ -198,7 +190,7 @@ span {
                                                 margin-top: 40px;
                                             }
                                                 #rating-wrapper {
-                                                    background-color: #F5EAE6;
+                                                    background-color: white;
                                                     position: relative;
                                                     z-index: -1;
                                                     min-width: 1200px;
@@ -304,6 +296,7 @@ span {
 footer {
     background-color: #0083B3;
     height: 180px;
+    bottom: 0;
 }
 #company {
     float: left;
