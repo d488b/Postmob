@@ -8,14 +8,14 @@
     color: #4ebee8;
 }
 header {
-    background-image: url('../IMAGES/trust-background-1.jpg') !important;
+    background-image: url('../IMAGES/background1.jpg') !important;
     height: 800px;
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
-    .introduction {
+    #introduction {
         font-size: 50px;
-        padding-top: 600px;
+        padding-top: 650px;
         text-align: center;
     }
 #choices {
