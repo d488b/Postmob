@@ -25,35 +25,41 @@ header {
                 margin-bottom: 0;
                 padding-bottom: 30px;
             }
+                .padding {
+                    padding-top: 20px;
+                }
 
 #step2 {
     background-image: url('../IMAGES/step2.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    height: 700px;
+    height: 800px;
 }
 #step3 {
     background-image: url('../IMAGES/step3.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    height: 700px;
+    height: 800px;
 }
 #step4 {
-    background-image: url('../IMAGES/step4.jpg');
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    height: 700px;
-}
-#step5 {
     background-image: url('../IMAGES/step5.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    height: 700px;
-    background-size: cover;
+    height: 800px;
 }
-#step6 {
-    background-image: url('../IMAGES/step6.jpg');
+#step5 {
+    background-image: url('../IMAGES/package1.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    height: 700px;
+    height: 800px;
+}
+#step6 {
+    background-image: url('../IMAGES/step4.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 800px;
+}
+
+.border-bottom {
+    border-bottom: 2px solid white;
 }
