@@ -9,7 +9,7 @@
 }
 header {
     background-image: url('../IMAGES/background1.jpg') !important;
-    height: 800px;
+    height: 100%;
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -17,16 +17,19 @@ header {
         font-size: 50px;
         padding-top: 650px;
         text-align: center;
+        color: black !important;
     }
 #choices {
     background-color: white;
+    margin-left: 3%;
 }
     #container1 {
         float: left;
         width: 30%;
         margin-left: 2%;
-        margin-right: 2%;
+        margin-right: 5%;
         margin-top: 5%;
+        margin-bottom: 3%;
     }
         #container2 {
             float: left;
@@ -48,17 +51,19 @@ header {
     }
         #handling-phone {
             float: left;
-            height: 500px;
+            height: 600px;
             margin-left: 5%;
             margin-top: 5%;
-            width: 40%;
-            margin-right: 10%;
+            width: 30%;
 
         }
             #right-text {
                 margin-top: 7%;
                 margin-right: 7%;
             }
+                #phone1 {
+                    height: 90%;
+                }
 
 
 
@@ -131,6 +136,6 @@ header {
             padding-left: 60%;
         }
         
-#container-page {
-    zoom: 75%;
-}        
+.images {
+    height: 100px;
+}
