@@ -292,6 +292,7 @@ span {
 footer {
     background-color: #0083B3;
     height: 200px;
+    bottom: 0;
 }
 #company {
     float: left;

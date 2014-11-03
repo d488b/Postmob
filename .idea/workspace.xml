@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e23c1815-26a1-415b-85d0-82768e0fcb58" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/howitworks.css" afterPath="$PROJECT_DIR$/CSS/howitworks.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/howitworks.html" afterPath="$PROJECT_DIR$/HTML/howitworks.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/index.css" afterPath="$PROJECT_DIR$/CSS/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/trust.css" afterPath="$PROJECT_DIR$/CSS/trust.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/trust.html" afterPath="$PROJECT_DIR$/HTML/trust.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -32,8 +34,8 @@
       <file leaf-file-name="trust.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/trust.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.7" vertical-offset="1420" max-vertical-offset="2715">
-              <caret line="97" column="29" selection-start-line="97" selection-start-column="29" selection-end-line="97" selection-end-column="29" />
+            <state vertical-scroll-proportion="-2.5" vertical-offset="1120" max-vertical-offset="2715">
+              <caret line="83" column="54" selection-start-line="83" selection-start-column="54" selection-end-line="83" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -42,8 +44,8 @@
       <file leaf-file-name="trust.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/trust.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="2130">
-              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            <state vertical-scroll-proportion="-3.8076923" vertical-offset="771" max-vertical-offset="2355">
+              <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -52,8 +54,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.7083334" vertical-offset="1429" max-vertical-offset="2325">
-              <caret line="98" column="10" selection-start-line="98" selection-start-column="10" selection-end-line="98" selection-end-column="10" />
+            <state vertical-scroll-proportion="-4.7" vertical-offset="1070" max-vertical-offset="2325">
+              <caret line="87" column="46" selection-start-line="87" selection-start-column="37" selection-end-line="87" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3114525" vertical-offset="1952" max-vertical-offset="4980">
+              <caret line="145" column="1" selection-start-line="145" selection-start-column="1" selection-end-line="145" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -62,18 +74,18 @@
       <file leaf-file-name="howitworks.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/howitworks.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.583334" vertical-offset="514" max-vertical-offset="2175">
-              <caret line="64" column="36" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
+            <state vertical-scroll-proportion="-31.25" vertical-offset="540" max-vertical-offset="2175">
+              <caret line="86" column="42" selection-start-line="86" selection-start-column="42" selection-end-line="86" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="howitworks.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="howitworks.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/howitworks.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1589404" vertical-offset="0" max-vertical-offset="1065">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="1125">
+              <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -92,8 +104,18 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1845">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="75" max-vertical-offset="1845">
               <caret line="5" column="67" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSS/about.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -113,20 +135,20 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/CSS/about.css" />
-        <option value="$PROJECT_DIR$/CSS/index.css" />
         <option value="$PROJECT_DIR$/HTML/index.html" />
         <option value="$PROJECT_DIR$/HTML/about.html" />
         <option value="$PROJECT_DIR$/php/index.php" />
-        <option value="$PROJECT_DIR$/HTML/howitworks.html" />
         <option value="$PROJECT_DIR$/CSS/contact.css" />
         <option value="$PROJECT_DIR$/js/agency.js" />
         <option value="$PROJECT_DIR$/HTML/contact.html" />
         <option value="$PROJECT_DIR$/js/cbpAnimatedHeader.js" />
         <option value="$PROJECT_DIR$/HTML/practice1.html" />
         <option value="$PROJECT_DIR$/CSS/practice.css" />
-        <option value="$PROJECT_DIR$/HTML/trust.html" />
-        <option value="$PROJECT_DIR$/CSS/trust.css" />
+        <option value="$PROJECT_DIR$/HTML/howitworks.html" />
         <option value="$PROJECT_DIR$/CSS/howitworks.css" />
+        <option value="$PROJECT_DIR$/CSS/trust.css" />
+        <option value="$PROJECT_DIR$/HTML/trust.html" />
+        <option value="$PROJECT_DIR$/CSS/index.css" />
       </list>
     </option>
   </component>
@@ -657,24 +679,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33240223" vertical-offset="2942" max-vertical-offset="4965">
-          <caret line="212" column="20" selection-start-line="212" selection-start-column="4" selection-end-line="212" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/agency.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.346154" vertical-offset="3747" max-vertical-offset="13065">
           <caret line="266" column="14" selection-start-line="266" selection-start-column="4" selection-end-line="266" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/about.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1589404" vertical-offset="0" max-vertical-offset="755">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -735,6 +743,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/howitworks.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="1125">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/howitworks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-31.25" vertical-offset="540" max-vertical-offset="2175">
+          <caret line="86" column="42" selection-start-line="86" selection-start-column="42" selection-end-line="86" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/about.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1845">
@@ -743,42 +775,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/trust.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.8076923" vertical-offset="771" max-vertical-offset="2355">
+          <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/trust.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7" vertical-offset="1420" max-vertical-offset="2715">
-          <caret line="97" column="29" selection-start-line="97" selection-start-column="29" selection-end-line="97" selection-end-column="29" />
+        <state vertical-scroll-proportion="-2.5" vertical-offset="1120" max-vertical-offset="2715">
+          <caret line="83" column="54" selection-start-line="83" selection-start-column="54" selection-end-line="83" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.7083334" vertical-offset="1429" max-vertical-offset="2325">
-          <caret line="98" column="10" selection-start-line="98" selection-start-column="10" selection-end-line="98" selection-end-column="10" />
+        <state vertical-scroll-proportion="-4.7" vertical-offset="1070" max-vertical-offset="2325">
+          <caret line="87" column="46" selection-start-line="87" selection-start-column="37" selection-end-line="87" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/trust.css">
+    <entry file="file://$PROJECT_DIR$/CSS/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="2130">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/howitworks.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.583334" vertical-offset="514" max-vertical-offset="2175">
-          <caret line="64" column="36" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/howitworks.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1589404" vertical-offset="0" max-vertical-offset="1065">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.3114525" vertical-offset="1952" max-vertical-offset="4980">
+          <caret line="145" column="1" selection-start-line="145" selection-start-column="1" selection-end-line="145" selection-end-column="1" />
           <folding />
         </state>
       </provider>

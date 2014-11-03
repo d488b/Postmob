@@ -7,6 +7,9 @@
 .postmob-lightblue {
     color: #4ebee8;
 }
+.font {
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
 header {
     background-image: url('../IMAGES/background1.jpg') !important;
     height: 100%;
@@ -17,7 +20,10 @@ header {
         font-size: 50px;
         padding-top: 650px;
         text-align: center;
-        color: black !important;
+        color: white !important;
+        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        margin-left: 15%;
+        padding-bottom: 50px;
     }
 #choices {
     background-color: white;
@@ -50,15 +56,28 @@ header {
         text-align: center;
     }
             #right-text {
-                margin-top: 7%;
-                margin-right: 7%;
+                margin-top: 10%;
             }
                 #phone1 {
                     width: 350px;
-                    margin-left: 10%;
+                    margin-left: 12%;
                     float: left;
                     height: 600px;
+                    margin-bottom: 0;
+                    margin-top: 0;
                 }
+                    #right-text2 {
+                        width: 40%;
+                        float: left;
+                        margin-left: 10%;
+                        font-size: 25px;
+                    }
+                        #right-text1 {
+                            clear: right;
+                            padding-left: 10%;
+                            float: left;
+                            font-size: 35px;
+                        }
 
 
 
@@ -85,10 +104,6 @@ header {
                 width: 60%;
                 text-align: center;
             }
-
-#backgroundcheck {
-
-}
     #backgroundcheck h1 {
         padding-left: 5%;
         font-size: 40px;
@@ -100,11 +115,11 @@ header {
             font-size: 25px;
         }
             #spyglass {
-                margin-left: 50%;
+                margin-left: 40%;
                 margin-top: 3%;
             }
                 #stars {
-                    margin-left: 50%;
+                    margin-left: 40%;
                     height: 100px;
                 }
                     #backgroundcheck ul {
