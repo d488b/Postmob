@@ -9,6 +9,10 @@ body {
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+html, body {
+    width: 100% !important;
+}
+
 .text-muted {
     color: #777;
 }
@@ -266,7 +270,7 @@ header {
     color: white;
     background-image: url(../IMAGES/frontpage.png);
     background-position: center center;
-    background-repeat: none;
+    background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -718,7 +722,7 @@ section#contact .text-danger {
 }
 
 footer {
-    padding: 25px 0;
+    padding-bottom: 25px 0px;
     text-align: center;
 }
 
@@ -737,15 +741,16 @@ footer ul.quicklinks {
     line-height: 40px;
 }
 
-ul.social-buttons {
+ul.s-buttons {
     margin-bottom: 0px;
+    margin-left: 5%;
 }
 
 ul.social-buttons li a {
     display: inline-block;
     margin-top: 50px;
     width: 40px;
-    height: 40px;
+    height: 5%;
     border-radius: 100%;
     font-size: 20px;
     line-height: 40px;
@@ -801,7 +806,10 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .modal-content ul.list-inline {
     margin-top: 0;
-    margin-bottom: 30px;
+}
+.list-inline > li {
+    padding-right: 0px;
+    padding-left: 0px;
 }
 
 .portfolio-modal .modal-content img {

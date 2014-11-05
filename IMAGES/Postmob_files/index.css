@@ -100,9 +100,9 @@ span {
                                         }
                                             #circles {
                                                 height: 50%;
-                                                padding-top: 20px;
-                                                padding-left: auto;
-                                                padding-right: auto;
+                                                margin-top: 20px;
+                                                margin-left: auto;
+                                                margin-right: auto;
                                                 width: 90%;
                                             }
                                                 #phone {
@@ -168,7 +168,8 @@ span {
                             margin-top: 20px;
                             color: #34b5e5;
                             margin-bottom: 5%;
-                            font-size: 15px;
+                            font-size: 120%;
+                            overflow: auto;
                         }
 
                                     #choices {
@@ -178,11 +179,11 @@ span {
                                             margin-bottom: 0;
                                         }
                                             #phone1 {
-                                                max-width: 100%;
-                                                height: auto;
+                                                width: 30%;
+                                                height: 550px;
                                                 margin-bottom: 5%;
                                                 float: right;
-                                                margin-right: 7%;
+                                                margin-right: 8%;
                                                 margin-top: 5%;
                                             }
                                                 #rating-wrapper {
@@ -194,7 +195,6 @@ span {
                                                         padding-left: 5%;
                                                         width: 50%;
                                                         margin-top: 5%;
-                                                        height: 250px;
                                                     }
                                                         #messenger-bar {
                                                             width: 100%;
@@ -287,7 +287,7 @@ span {
                                                         }
 footer {
     background-color: #0083B3;
-    height: 200px;
+    height: 200px
     width: 100% !important;
     clear: both;
     padding-top: 2%;
@@ -295,11 +295,13 @@ footer {
 #company {
     float: left;
     list-style-type: none;
-    width: 30%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
         #policies {
             float: left;
-            width: 30%;
+            margin-left: 10%;
+            margin-right: 20%;
         }
             .footer {
                 list-style: none;
@@ -320,7 +322,7 @@ footer {
                             }
 
 .buttons1 {
-    width: 40%;
+    width: 300px;
     float: left;
 
 }
