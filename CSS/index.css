@@ -15,7 +15,7 @@ span {
     border-radius: 10px;
 }
 #logo {
-    height: 50px;
+    height: 6.0vh;
 }
     #name {
         padding-top: 0px;
@@ -43,7 +43,7 @@ span {
         }
             #claim {
                 text-align: center;
-                padding-top: 100px;
+                padding-top: 5%;
 
                 /* IE10 Consumer Preview */
                 background-image: -ms-radial-gradient(center, ellipse farthest-corner, #4392FF 0%, #EFEFEF 100%);
@@ -66,14 +66,14 @@ span {
                 height: 100%;
             }
                 #statement {
-                    font-size: 40px;
+                    font-size: 7.5vmin;
                 }
                     #statement2 {
-                        font-size: 20px;
+                        font-size: 3.0vmin;
                     }
                         #claim2 {
                             margin-top: 4%;
-                            font-size: 40px;
+                            font-size: 5.5vmin;
                             margin-bottom: 30px;
                             text-align: center;
                             color: white;
@@ -84,7 +84,7 @@ span {
                                 margin-right: 12%;
                                 margin-bottom: 0;
                                 padding-bottom: 60px;
-                                font-size: 20px;
+                                font-size: 2.5vmin;
                             }
                                 #stamp {
                                     margin-left: 80%;
@@ -99,49 +99,50 @@ span {
                                             margin-left: 0;
                                         }
                                             #circles {
-                                                height: 50%;
-                                                padding-top: 20px;
+                                                max-height: 45vh;
+                                                padding-top: 10px;
                                                 padding-left: auto;
                                                 padding-right: auto;
-                                                width: 90%;
+                                                width: 100vw;
                                             }
                                                 #phone {
-                                                    height: 500px;
+                                                    display: block;
+                                                    height: 60vmin;
                                                     margin-top: 5%;
                                                     margin-left: auto;
                                                     margin-right: auto;
+                                                    clear: left;
                                                 }
                                                     #declaration1 {
                                                         width: 30%;
                                                         float: left;
-                                                        margin-left: 5%;
-                                                        display: inline-block;
+                                                        margin-left: 3%;
                                                         color: white;
-                                                        font-size: 130%;
-
+                                                        font-size: 3vmin;
                                                     }
                                                         #declaration2 {
                                                             width: 30%;
                                                             float: left;
-                                                            display: inline-block;
                                                             color: white;
-                                                            font-size: 130%;
+                                                            font-size: 3vmin;
+                                                            margin-left: 3%;
                                                         }
                                                             #declaration3 {
                                                                 width: 30%;
                                                                 display: inline-block;
                                                                 color: white;
-                                                                font-size: 130%;
+                                                                font-size: 3vmin;
+                                                                margin-left: 1%;
                                                             }
 #page1 {
     height: 100%;
-    padding-top: 30px;
+    padding-top: 10px;
 }
             #selection {
                 padding-left: 5%;
                 margin-top: 5%;
                 color: #00A3df;
-                font-size: 30px;
+                font-size: 5vmin;
             }
                 #choices ul li{
                     border: 1px solid black;
@@ -152,12 +153,12 @@ span {
                     margin-top: 20px;
                 }
                     #rating {
-                        font-size: 20px;
+                        font-size: 4vmin;
                         float: left;
                         padding-left: 5%;
                         clear: left;
                         color: #34b5e5;
-                        margin-top: 2%;
+                        margin-top: 3%;
 
                     }
                         #info4 {
@@ -168,7 +169,7 @@ span {
                             margin-top: 20px;
                             color: #34b5e5;
                             margin-bottom: 5%;
-                            font-size: 15px;
+                            font-size: 2.5vmin;
                         }
 
                                     #choices {
@@ -178,23 +179,21 @@ span {
                                             margin-bottom: 0;
                                         }
                                             #phone1 {
-                                                max-width: 100%;
-                                                height: auto;
-                                                margin-bottom: 5%;
+                                                width: 35vmin;
+                                                height: 75vmin;
                                                 float: right;
-                                                margin-right: 7%;
-                                                margin-top: 5%;
+                                                margin-top: 2%;
+                                                margin-right: 5%;
                                             }
                                                 #rating-wrapper {
                                                     background-color: white;
-                                                    position: relative;
                                                 }
                                                     #pattern {
                                                         float: left;
                                                         padding-left: 5%;
-                                                        width: 50%;
-                                                        margin-top: 5%;
-                                                        height: 250px;
+                                                        width: 50vw;
+                                                        margin-top: 2%;
+                                                        height: 40vmin;
                                                     }
                                                         #messenger-bar {
                                                             width: 100%;
@@ -286,8 +285,8 @@ span {
                                                             clear: left;
                                                         }
 footer {
+    max-height: 200px;
     background-color: #0083B3;
-    height: 200px;
     width: 100% !important;
     clear: both;
     padding-top: 2%;

@@ -296,7 +296,7 @@ header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 50px;
+    font-size: 6.0vw;
     font-weight: 700;
     line-height: 50px;
 }
@@ -304,13 +304,13 @@ header .intro-text .intro-heading {
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
-        padding-bottom: 200px;
+        padding-bottom: 300px;
     }
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
         font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 40px;
+        font-size: 3.0vw;
         font-style: italic;
         line-height: 40px;
     }
@@ -722,8 +722,9 @@ section#contact .text-danger {
 }
 
 footer {
-    padding-bottom: 25px 0px;
     text-align: center;
+    overflow: hidden;
+    padding-bottom: 5%;
 }
 
 footer span.copyright {
@@ -742,7 +743,7 @@ footer ul.quicklinks {
 }
 
 ul.s-buttons {
-    margin-bottom: 0px;
+    margin-bottom: 0;
     margin-left: 5%;
 }
 
