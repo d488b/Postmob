@@ -46,7 +46,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #fec503;
+    text-decoration: none;
 }
 
 h1,
@@ -749,7 +749,7 @@ ul.s-buttons {
 
 ul.social-buttons li a {
     display: inline-block;
-    margin-top: 50px;
+    clear: both;
     width: 40px;
     height: 5%;
     border-radius: 100%;

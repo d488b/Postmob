@@ -294,11 +294,12 @@ footer {
 #company {
     float: left;
     list-style-type: none;
-    width: 30%;
+    width: 35%;
+    margin-left: 10%;
 }
         #policies {
             float: left;
-            width: 30%;
+            display: block;
         }
             .footer {
                 list-style: none;
@@ -319,9 +320,8 @@ footer {
                             }
 
 .buttons1 {
-    width: 40%;
     float: left;
-
+    margin-left: 10% !important;
 }
 
 
