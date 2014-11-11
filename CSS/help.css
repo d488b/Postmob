@@ -2,7 +2,7 @@
     background-color: #0083B3 !important;
 }
 #help1 {
-    height: 50vmin;
+    height: 500px;
     margin-top: 15vh;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 
@@ -12,7 +12,7 @@
         color: #00A3df;
         margin-top: 10px;
         margin-bottom: 10px;
-        font-size: 1.5vmax;
+        font-size: 1.3vmax;
         padding-top: 10px;
         width: 90%;
 
@@ -49,9 +49,4 @@
 #three {
     float: left;
     width: 30%;
-}
-
-footer {
-    position: absolute !important;
-    bottom: 0 !important;
 }

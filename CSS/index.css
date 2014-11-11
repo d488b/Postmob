@@ -288,18 +288,18 @@ footer {
     max-height: 200px;
     background-color: #0083B3;
     width: 100% !important;
-    clear: both;
+    clear: both !important;
     padding-top: 2%;
 }
 #company {
     float: left;
     list-style-type: none;
-    width: 35%;
-    margin-left: 10%;
+    width: 33%;
 }
         #policies {
             float: left;
             display: block;
+            width: 33%;
         }
             .footer {
                 list-style: none;
@@ -317,11 +317,16 @@ footer {
                         }
                             footer h4 {
                                 color: black;
+                                font-size: 1vmax;
                             }
+                                footer ul li a {
+                                    font-size: 1vmax;
+                                }
 
 .buttons1 {
     float: left;
-    margin-left: 10% !important;
+    width: 33%;
+    margin-top: 3%;
 }
 
 
