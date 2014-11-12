@@ -5,7 +5,7 @@ header {
 }
     #step1 {
         font-size: 9vw;
-        padding-top: 80vmin;
+        padding-top: 78vmin;
         font-family: Brush Script MT,cursive;
         font-style: normal;
         font-variant: normal;
@@ -15,7 +15,7 @@ header {
     background-color: #0083B3;
 }
     div p {
-        font-size: 3vh;
+        font-size: 5vmin;
         text-align: center;
     }
             .padded {
@@ -23,7 +23,7 @@ header {
                 margin-right: 5%;
                 margin-bottom: 0;
                 padding-bottom: 30px;
-                font-size: 2vh;
+                font-size: 3vmin;
             }
                 .padding {
                     padding-top: 20px;

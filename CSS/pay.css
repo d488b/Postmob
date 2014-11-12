@@ -1,35 +1,45 @@
 .header {
     margin-top: 20vmin;
     font-weight: bold;
-    font-size: 4vmin;
+    font-size: 6vmin;
     margin-left: 30%;
     margin-top: 10vmax;
+    padding-right: 10%;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #00A3df;
 }
 .question {
     font-weight: bold;
-    font-size: 3vmin;
+    font-size: 4vmin;
     margin-left: 30%;
+    width: 50%;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 .answer {
     font-size: 2.5vmin;
     margin-left: 30%;
     padding-right: 5%;
     width: 50%;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 .contact {
     margin-top: 5%;
     text-align: center;
     font-size: 3vmin;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 .contact1, .contact1 a {
     text-align: center;
     font-size: 3vmin;
     color: #00A3df !important;
     margin-bottom: 100px;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 #body {
     height: 100%;
 }
-footer {
-
+.caps {
+    text-transform: uppercase;
+    font-size: 2vh;
+    width: 45% !important;
 }
