@@ -7,6 +7,7 @@
     padding-right: 10%;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #00A3df;
+    clear: left;
 }
 .question {
     font-weight: bold;
@@ -42,4 +43,7 @@
     text-transform: uppercase;
     font-size: 2vh;
     width: 45% !important;
+}
+.contact-pay {
+    color: #00A3df;
 }

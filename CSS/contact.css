@@ -22,17 +22,7 @@ form {
     width:459px;
 }
 
-/* Style the text boxes */
-input, textarea {
-    width:439px;
-    height:45px !important;
-    background:#efefef;
-    border:1px solid #dedede;
-    padding:10px;
-    margin-top:3px;
-    font-size:0.9em;
-    color:#3a3a3a;
-}
+
 
 textarea {
     height:200px !important;
