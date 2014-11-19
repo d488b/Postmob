@@ -9,7 +9,6 @@
 }
     #help1 ul li {
         list-style: none;
-        color: #00A3df;
         margin-top: 10px;
         margin-bottom: 10px;
         font-size: 1.3vmax;
@@ -19,15 +18,16 @@
     }
         #help1 ul {
             padding-left: 0 !important;
-
         }
             #help1 p {
                 font-size: 4vmin;
                 font-weight: bold;
                 font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
                 margin-left: 10%;
-
             }
+                #help1 ul li a {
+                    color: #00A3df !important;
+                }
 .name {
     font-size: 3vmin;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -63,7 +63,7 @@
     float: right;
 }
 
-#app-phone2 {
+.app-phone2 {
     height: 60vmin;
     float: right;
     margin-bottom: 5%;

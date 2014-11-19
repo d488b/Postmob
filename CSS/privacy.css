@@ -1,0 +1,45 @@
+#title1, #title2 {
+    text-align: center !important;
+}
+#title1 {
+    margin-top: 10% !important;
+}
+
+#title2 {
+    font-size: 3vmin !important;
+    font-weight: normal !important;
+    margin-bottom: 3%;
+}
+
+.question {
+    margin-left: 25% !important;
+    font-size: 3.5vmin !important;
+}
+
+.answer {
+    font-size: 2.5vmin !important;
+    font-weight: normal !important;
+    width: 50% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+#help1 {
+    height: 100% !important;
+}
+
+.bottom {
+    margin-bottom: 5%;
+}
+.list1 {
+    width: 60%;
+    margin-left: 25%;
+    list-style: disc;
+    font-weight: bold;
+    font-size: 2vmin;
+}
+
+.list3 {
+    list-style: circle !important;
+    margin-left: 5%;
+}

@@ -186,7 +186,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: black;
+    color: #00A3df;
 }
 
 .navbar-default .navbar-collapse {
@@ -204,7 +204,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #34b5e5;
+    background-color: #00A3df;
 }
 
 .navbar-default .nav li a {
@@ -217,7 +217,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .nav li a:hover {
     outline: 0;
-    color: black !important;
+    color: #34b5e5 !important;
 }
 .navbar-default .nav li a:focus {
     color: white;
