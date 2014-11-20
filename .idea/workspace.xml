@@ -2,30 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e23c1815-26a1-415b-85d0-82768e0fcb58" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Postmob_files/Logopattern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Postmob_files/Messenger_Bar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Postmob_files/agency.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Postmob_files/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Postmob_files/cbpAnimatedHeader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Postmob_files/classie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Postmob_files/contact_me.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Postmob_files/css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Postmob_files/css(1)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Postmob_files/css(2)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Postmob_files/css(3)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Postmob_files/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Postmob_files/html5shiv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Postmob_files/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Postmob_files/jqBootstrapValidation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Postmob_files/jquery-1.11.0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Postmob_files/jquery.easing.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Postmob_files/newcircles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Postmob_files/phone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Postmob_files/phone3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Postmob_files/respond.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Postmob_files/white_postmob_logo.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/index.html" afterPath="$PROJECT_DIR$/HTML/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Envelope_messenger.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/Trustbg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/envelope.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/header-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/insta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/phone.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/shutterstock_117378070.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/shutterstock_120154516.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/shutterstock_134907293.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/shutterstock_195080606.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/stamp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/stamp1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/trust.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/twitter_32.png" afterPath="" />
     </list>
     <ignored path="Postmob.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -138,7 +128,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -243,6 +232,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -270,10 +260,14 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -281,10 +275,6 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -344,13 +334,13 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32950193" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32908162" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39974457" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -368,9 +358,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22692037" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -394,13 +384,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/font-awesome-4.1.0/scss/_icons.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.7254097" vertical-offset="0" max-vertical-offset="7680">
-          <caret line="133" column="19" selection-start-line="133" selection-start-column="19" selection-end-line="133" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/font-awesome-4.1.0/css/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.37517434" vertical-offset="8116" max-vertical-offset="23580">
@@ -728,7 +711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1560" max-vertical-offset="2520">
           <caret line="104" column="35" selection-start-line="104" selection-start-column="35" selection-end-line="104" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -736,7 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="1635">
           <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -744,6 +725,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16713092" vertical-offset="0" max-vertical-offset="2115">
           <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMAGES/Postmob.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.775766" vertical-offset="1275" max-vertical-offset="2340">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
