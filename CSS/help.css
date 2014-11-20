@@ -5,13 +5,14 @@
     height: 500px;
     margin-top: 15vh;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-bottom: 50px;
 
 }
     #help1 ul li {
         list-style: none;
         margin-top: 10px;
         margin-bottom: 10px;
-        font-size: 1.3vmax;
+        font-size: 4vmin;
         padding-top: 10px;
         width: 90%;
 
@@ -31,7 +32,8 @@
 .name {
     font-size: 3vmin;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: normal;
+    font-weight: bold;
+
 }
 
 #one {
