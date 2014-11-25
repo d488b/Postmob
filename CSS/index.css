@@ -17,10 +17,14 @@ span {
 }
 #logo {
     height: 5vh;
+    margin-left: 30px;
 }
         .container {
             width: 100% !important;
         }
+            #name {
+                margin-top: 15px;
+            }
 #question {
     margin-top: 0px;
     border-top: 1px solid black;
@@ -44,22 +48,22 @@ span {
                 padding-top: 5%;
 
                 /* IE10 Consumer Preview */
-                background-image: -ms-radial-gradient(center, ellipse farthest-corner, #4392FF 0%, #EFEFEF 100%);
+                background-image: -ms-radial-gradient(center, ellipse farthest-corner, #0099cc 0%, #EFEFEF 100%);
 
                 /* Mozilla Firefox */
-                background-image: -moz-radial-gradient(center, ellipse farthest-corner, #4392FF 0%, #EFEFEF 100%);
+                background-image: -moz-radial-gradient(center, ellipse farthest-corner, #0099cc 0%, #EFEFEF 100%);
 
                 /* Opera */
-                background-image: -o-radial-gradient(center, ellipse farthest-corner, #4392FF 0%, #EFEFEF 100%);
+                background-image: -o-radial-gradient(center, ellipse farthest-corner, #0099cc 0%, #EFEFEF 100%);
 
                 /* Webkit (Safari/Chrome 10) */
-                background-image: -webkit-gradient(radial, center center, 0, center center, 497, color-stop(0, #4392FF), color-stop(1, #EFEFEF));
+                background-image: -webkit-gradient(radial, center center, 0, center center, 497, color-stop(0, #0099cc), color-stop(1, #EFEFEF));
 
                 /* Webkit (Chrome 11+) */
-                background-image: -webkit-radial-gradient(center, ellipse farthest-corner, #4392FF 0%, #EFEFEF 100%);
+                background-image: -webkit-radial-gradient(center, ellipse farthest-corner, #0099cc 0%, #EFEFEF 100%);
 
                 /* W3C Markup, IE10 Release Preview */
-                background-image: radial-gradient(ellipse farthest-corner at center, #4392FF 0%, #EFEFEF 100%);
+                background-image: radial-gradient(ellipse farthest-corner at center, #0099cc 0%, #EFEFEF 100%);
                 color: white;
                 height: 100%;
             }
@@ -101,7 +105,7 @@ span {
                                                 padding-top: 10px;
                                                 padding-left: auto;
                                                 padding-right: auto;
-                                                max-width: 100vw;
+                                                width: 100vw;
                                             }
                                                 #phone {
                                                     display: block;

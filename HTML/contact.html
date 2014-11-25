@@ -5,6 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Contact Us</title>
+    <link rel="shortcut icon" href="../IMAGES/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="../IMAGES/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" type="text/css" href="../CSS/contact.css">
     <link rel="stylesheet" type="text/css" href="../CSS/index.css">
     <link rel="stylesheet" type="text/css" href="../CSS/help.css">
@@ -51,21 +53,28 @@
         </div>
     </div>
 </nav>
-<div class="body">
-    <form method="post" action="index.php">
-        <label>Name</label>
-        <input name="name" placeholder="Name">
+    <section class="body">
 
-        <label>Email</label>
-        <input name="email" type="email" placeholder="Email Address">
+        <form action="../php/form.php" method="post" enctype="multipart/form-data">
 
-        <label>Message</label>
-        <textarea name="message" placeholder="Message"></textarea>
+            <h1 class="title">Contact</h1>
 
-        <input id="submit" name="submit" type="submit" value="Submit">
+            <label></label>
+            <input name="name" required="required" placeholder="Your Name">
 
-    </form>
-</div>
+
+            <label></label>
+            <input name="email" type="email" required="required" placeholder="Your Email">
+
+
+            <label></label>
+            <textarea name="message" cols="20" rows="5" required="required" placeholder="Message"></textarea>
+
+            <input id="submit" name="submit" type="submit" value="Submit">
+
+        </form>
+
+    </section>
 <footer>
     <div id="company">
         <h4>Company</h4>
