@@ -13,8 +13,8 @@
 if ($_POST['submit']) {
     if (mail ($to, $subject, $body, $from)) { 
         echo '<p>Thank you for your email!</p>';
-    } else { 
-        echo '<p>Oops! An error occurred. Try sending your message again.</p>'; 
+    } else {
+        echo '<p>Oops! An error occurred. Try sending your message again.</p>';
     }
 }
 ?>
