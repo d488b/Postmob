@@ -215,6 +215,7 @@ fieldset[disabled] .btn-xl.active {
     font-weight: 500;
     letter-spacing: 1px;
     color: white;
+    margin-top: 5px;
 }
 
 .navbar-default .nav li a:hover {
@@ -238,7 +239,8 @@ fieldset[disabled] .btn-xl.active {
 }
 @media(min-width:768px) {
     .navbar-default {
-        padding: 25px 0;
+        padding-top: 12px;
+        padding-bottom: 0px;
         border: 0;
         background-color: transparent;
         -webkit-transition: padding .3s;
@@ -258,7 +260,8 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default.navbar-shrink {
-        padding: 10px 0;
+        padding-top: 15px;
+        padding-bottom: 0px;
         background-color: #0083B3;
     }
 

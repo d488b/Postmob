@@ -2,7 +2,7 @@
     background-color: #0083B3 !important;
 }
 #help1 {
-    height: 500px;
+    height: 100%;
     margin-top: 15vh;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     margin-bottom: 50px;
@@ -12,8 +12,8 @@
         list-style: none;
         margin-top: 10px;
         margin-bottom: 10px;
-        font-size: 4vmin;
-        padding-top: 10px;
+        font-size: 2.5vmin;
+        padding-top: 3px;
         width: 90%;
 
     }
@@ -24,7 +24,8 @@
                 font-size: 4vmin;
                 font-weight: bold;
                 font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
-                margin-left: 10%;
+                margin-left: 40%;
+                margin-top: 5%;
             }
                 #help1 ul li a {
                     color: #00A3df !important;
@@ -37,20 +38,17 @@
 }
 
 #one {
-    clear: left;
-    float: left;
-    margin-left: 10%;
-    width: 30%;
+    margin-left: 40%;
+    margin-bottom: 3.5%;
 }
-
 #two {
-    float: left;
-    width: 30%;
+    margin-left: 40%;
+    margin-bottom: 3.5%;
 }
 
 #three {
-    float: left;
-    width: 30%;
+    margin-left: 40%;
+    margin-bottom: 5%;
 }
 
 #app-phone {
