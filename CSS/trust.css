@@ -152,9 +152,30 @@ header {
         }
         
 .images {
-    height: 15vmin;
+    height: 20vmin;
     width: 20vmin;
     margin-left: auto;
     margin-right: auto;
     display: block;
 }
+
+.person {
+    margin-top: 30px;
+}
+
+.person1 {
+    margin-top: 14px;
+}
+
+    .person {
+        margin-top: 10px;
+    }
+    .person1 {
+        margin-top: 5px;
+    }
+    .margin-top {
+        margin-top: 10px;
+    }
+    .margin-top2 {
+        margin-top: 15px;
+    }

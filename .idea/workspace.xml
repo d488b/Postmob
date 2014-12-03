@@ -2,27 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e23c1815-26a1-415b-85d0-82768e0fcb58" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/How It Works_files/agency.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/How It Works_files/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/How It Works_files/cbpAnimatedHeader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/How It Works_files/classie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/How It Works_files/css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/How It Works_files/css(1)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/How It Works_files/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/How It Works_files/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/How It Works_files/jquery-1.11.0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/How It Works_files/jquery.easing.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IMAGES/How It Works_files/white_postmob_logo.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMAGES/phone.png" afterPath="$PROJECT_DIR$/IMAGES/phone.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMAGES/step3.jpg" afterPath="$PROJECT_DIR$/IMAGES/step3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMAGES/step5.jpg" afterPath="$PROJECT_DIR$/IMAGES/step5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMAGES/IconsTrust.png" afterPath="$PROJECT_DIR$/IMAGES/IconsTrust.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMAGES/IconsTrust1.png" afterPath="$PROJECT_DIR$/IMAGES/IconsTrust1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/agency.css" afterPath="$PROJECT_DIR$/CSS/agency.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/contact.css" afterPath="$PROJECT_DIR$/CSS/contact.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/contact.html" afterPath="$PROJECT_DIR$/HTML/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/help.css" afterPath="$PROJECT_DIR$/CSS/help.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/help.html" afterPath="$PROJECT_DIR$/HTML/help.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/howitworks.css" afterPath="$PROJECT_DIR$/CSS/howitworks.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/bootstrap.min.css" afterPath="$PROJECT_DIR$/CSS/bootstrap.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/index.css" afterPath="$PROJECT_DIR$/CSS/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/index.html" afterPath="$PROJECT_DIR$/HTML/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/trust.css" afterPath="$PROJECT_DIR$/CSS/trust.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/trust.html" afterPath="$PROJECT_DIR$/HTML/trust.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Postmob.iws" />
@@ -47,31 +34,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="help.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML/help.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="1875">
-              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="help.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CSS/help.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1365">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CSS/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35579515" vertical-offset="4191" max-vertical-offset="5175">
-              <caret line="297" column="41" selection-start-line="297" selection-start-column="41" selection-end-line="297" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.50617284" vertical-offset="4011" max-vertical-offset="4755">
+              <caret line="292" column="48" selection-start-line="292" selection-start-column="48" selection-end-line="292" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -98,14 +65,11 @@
         <option value="$PROJECT_DIR$/php/index.php" />
         <option value="$PROJECT_DIR$/CSS/privacy.css" />
         <option value="$PROJECT_DIR$/HTML/testing.html" />
-        <option value="$PROJECT_DIR$/CSS/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/HTML/index.html" />
         <option value="$PROJECT_DIR$/HTML/app1.html" />
         <option value="$PROJECT_DIR$/HTML/app2.html" />
         <option value="$PROJECT_DIR$/HTML/app3.html" />
         <option value="$PROJECT_DIR$/HTML/app4.html" />
         <option value="$PROJECT_DIR$/HTML/app5.html" />
-        <option value="$PROJECT_DIR$/HTML/howitworks.html" />
         <option value="$PROJECT_DIR$/HTML/pay1.html" />
         <option value="$PROJECT_DIR$/HTML/pay2.html" />
         <option value="$PROJECT_DIR$/HTML/pay3.html" />
@@ -117,10 +81,8 @@
         <option value="$PROJECT_DIR$/HTML/safety2.html" />
         <option value="$PROJECT_DIR$/HTML/safety3.html" />
         <option value="$PROJECT_DIR$/HTML/terms.html" />
-        <option value="$PROJECT_DIR$/HTML/trust.html" />
         <option value="$PROJECT_DIR$/js/agency.js" />
         <option value="$USER_HOME$/Downloads/agency 2/js/cbpAnimatedHeader.js" />
-        <option value="$PROJECT_DIR$/CSS/trust.css" />
         <option value="$PROJECT_DIR$/HTML/about.html" />
         <option value="$PROJECT_DIR$/CSS/about.css" />
         <option value="$PROJECT_DIR$/php/form.php" />
@@ -131,7 +93,12 @@
         <option value="$PROJECT_DIR$/js/cbpAnimatedHeader.js" />
         <option value="$PROJECT_DIR$/CSS/bootstrap.css" />
         <option value="$PROJECT_DIR$/HTML/help.html" />
+        <option value="$PROJECT_DIR$/HTML/index.html" />
+        <option value="$PROJECT_DIR$/HTML/trust.html" />
+        <option value="$PROJECT_DIR$/CSS/trust.css" />
+        <option value="$PROJECT_DIR$/HTML/howitworks.html" />
         <option value="$PROJECT_DIR$/CSS/agency.css" />
+        <option value="$PROJECT_DIR$/CSS/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/CSS/index.css" />
       </list>
     </option>
@@ -170,6 +137,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -260,7 +228,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -304,10 +271,14 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -315,10 +286,6 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -378,13 +345,13 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32950193" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32908162" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39974457" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -402,9 +369,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22692037" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -428,13 +395,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CSS/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.3076923" vertical-offset="0" max-vertical-offset="150">
-          <caret line="4" column="62149" selection-start-line="4" selection-start-column="62149" selection-end-line="4" selection-end-column="62149" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/pay.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="10" max-vertical-offset="810">
@@ -624,20 +584,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/trust.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29801324" vertical-offset="0" max-vertical-offset="2475">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/trust.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.7674096" vertical-offset="203" max-vertical-offset="2460">
-          <caret line="146" column="46" selection-start-line="146" selection-start-column="46" selection-end-line="146" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/agency 2/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.083333" vertical-offset="850" max-vertical-offset="10020">
@@ -670,7 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.29801324" vertical-offset="0" max-vertical-offset="755">
           <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -682,19 +627,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/howitworks.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0626741" vertical-offset="600" max-vertical-offset="1875">
-          <caret line="43" column="70" selection-start-line="43" selection-start-column="70" selection-end-line="43" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/contact.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13907285" vertical-offset="0" max-vertical-offset="1635">
           <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -702,7 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.75208914" vertical-offset="570" max-vertical-offset="1785">
           <caret line="74" column="78" selection-start-line="74" selection-start-column="78" selection-end-line="74" selection-end-column="78" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -710,7 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.051212937" vertical-offset="4553" max-vertical-offset="31740">
           <caret line="305" column="17" selection-start-line="305" selection-start-column="14" selection-end-line="305" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -718,7 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20949721" vertical-offset="0" max-vertical-offset="716">
           <caret line="10" column="99" selection-start-line="10" selection-start-column="92" selection-end-line="10" selection-end-column="99" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -726,7 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="211" max-vertical-offset="1155">
           <caret line="40" column="45" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -734,7 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.04043127" vertical-offset="0" max-vertical-offset="742">
           <caret line="2" column="3445" selection-start-line="2" selection-start-column="3442" selection-end-line="2" selection-end-column="3445" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -742,15 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
           <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.666667" vertical-offset="104" max-vertical-offset="2070">
-          <caret line="24" column="26" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -758,7 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="56931" max-vertical-offset="93135">
           <caret line="3813" column="11" selection-start-line="3813" selection-start-column="11" selection-end-line="3813" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -766,22 +687,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1589404" vertical-offset="0" max-vertical-offset="755">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML/help.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="1875">
-          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/agency.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.4691358" vertical-offset="11247" max-vertical-offset="13230">
-          <caret line="727" column="6" selection-start-line="727" selection-start-column="0" selection-end-line="727" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.39693594" vertical-offset="330" max-vertical-offset="1875">
+          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -794,10 +706,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/trust.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12582782" vertical-offset="2050" max-vertical-offset="2805">
+          <caret line="143" column="25" selection-start-line="143" selection-start-column="25" selection-end-line="143" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/trust.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54913294" vertical-offset="685" max-vertical-offset="2460">
+          <caret line="71" column="48" selection-start-line="71" selection-start-column="48" selection-end-line="71" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/howitworks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.375" vertical-offset="105" max-vertical-offset="1875">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.083798885" vertical-offset="0" max-vertical-offset="716">
+          <caret line="4" column="15960" selection-start-line="4" selection-start-column="15960" selection-end-line="4" selection-end-column="15960" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7037037" vertical-offset="11007" max-vertical-offset="13185">
+          <caret line="768" column="18" selection-start-line="768" selection-start-column="18" selection-end-line="768" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14345405" vertical-offset="1022" max-vertical-offset="2040">
+          <caret line="75" column="27" selection-start-line="75" selection-start-column="27" selection-end-line="75" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35579515" vertical-offset="4191" max-vertical-offset="5175">
-          <caret line="297" column="41" selection-start-line="297" selection-start-column="41" selection-end-line="297" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.50617284" vertical-offset="4011" max-vertical-offset="4755">
+          <caret line="292" column="48" selection-start-line="292" selection-start-column="48" selection-end-line="292" selection-end-column="48" />
           <folding />
         </state>
       </provider>

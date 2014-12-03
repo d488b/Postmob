@@ -175,7 +175,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #0083B3 ;
+    background-color: #00A3DF !important;
 }
 
 .navbar-default .navbar-brand {
@@ -265,9 +265,6 @@ fieldset[disabled] .btn-xl.active {
         background-color: #0083B3;
     }
 
-    .navbar-default.navbar-shrink .navbar-brand {
-        font-size: 1.5em;
-    }
 }
 
 header {
@@ -285,11 +282,11 @@ header {
 }
 
 header .intro-text {
-    padding-top: 50vh;
+    padding-top: 50vmin;
 }
 
 header .intro-text .intro-lead-in {
-    margin-bottom: 25px;
+    margin-bottom: 200px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 22px;
     font-style: italic;
@@ -759,7 +756,7 @@ ul.social-buttons li a {
     line-height: 4vmin;
     outline: 0;
     color: #fff;
-    background-color: #222;
+    background-color: #00A3DF;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
@@ -769,7 +766,7 @@ ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
     background-color: white;
-    color: black;
+    color: #00A3DF;
 
 }
 
