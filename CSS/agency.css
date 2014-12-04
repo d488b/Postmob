@@ -187,7 +187,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #00A3df;
+    color: white !important;
 }
 
 .navbar-default .navbar-collapse {
@@ -220,7 +220,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .nav li a:hover {
     outline: 0;
-    color: #34b5e5 !important;
+    color: #fff !important;
 }
 .navbar-default .nav li a:focus {
     color: white;
@@ -278,7 +278,8 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    height: 100vh;
+    height: 96vh;
+    opacity: 0.96;
 }
 
 header .intro-text {
@@ -286,7 +287,7 @@ header .intro-text {
 }
 
 header .intro-text .intro-lead-in {
-    margin-bottom: 200px;
+    margin-bottom: 2%;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 22px;
     font-style: italic;
@@ -309,21 +310,23 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-lead-in {
-        margin-bottom: 25px;
-        font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 3.0vw;
-        font-style: italic;
         line-height: 40px;
-    }
+        text-align: left;
+        margin-left: 6%;
+}
 
     header .intro-text .intro-heading {
-        margin-bottom: 50px;
+        margin-bottom: 5px;
         text-transform: uppercase;
         font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 75px;
+        font-size: 62px;
         font-weight: 700;
         line-height: 75px;
-    }
+    
+        text-align: left;
+        margin-left: 6%;
+}
 }
 
 section {
@@ -755,8 +758,8 @@ ul.social-buttons li a {
     font-size: 2vmin;
     line-height: 4vmin;
     outline: 0;
-    color: #fff;
-    background-color: #00A3DF;
+    /* color: #fff; */
+    /* background-color: #00A3DF; */
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
@@ -765,8 +768,8 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-    background-color: white;
-    color: #00A3DF;
+    background-color: #00A3DF;
+    color: white;
 
 }
 

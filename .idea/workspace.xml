@@ -2,8 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e23c1815-26a1-415b-85d0-82768e0fcb58" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMAGES/newcircles.png" afterPath="$PROJECT_DIR$/IMAGES/newcircles.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/about.css" afterPath="$PROJECT_DIR$/CSS/about.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/about.html" afterPath="$PROJECT_DIR$/HTML/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/agency.css" afterPath="$PROJECT_DIR$/CSS/agency.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/app1.html" afterPath="$PROJECT_DIR$/HTML/app1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/app2.html" afterPath="$PROJECT_DIR$/HTML/app2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/app3.html" afterPath="$PROJECT_DIR$/HTML/app3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/app4.html" afterPath="$PROJECT_DIR$/HTML/app4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/app5.html" afterPath="$PROJECT_DIR$/HTML/app5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/bootstrap.min.css" afterPath="$PROJECT_DIR$/CSS/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/contact.css" afterPath="$PROJECT_DIR$/CSS/contact.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/contact.html" afterPath="$PROJECT_DIR$/HTML/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/form.php" afterPath="$PROJECT_DIR$/php/form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/help.css" afterPath="$PROJECT_DIR$/CSS/help.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/help.html" afterPath="$PROJECT_DIR$/HTML/help.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/howitworks.css" afterPath="$PROJECT_DIR$/CSS/howitworks.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/howitworks.html" afterPath="$PROJECT_DIR$/HTML/howitworks.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/index.css" afterPath="$PROJECT_DIR$/CSS/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/index.html" afterPath="$PROJECT_DIR$/HTML/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/pay.css" afterPath="$PROJECT_DIR$/CSS/pay.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/pay1.html" afterPath="$PROJECT_DIR$/HTML/pay1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/pay2.html" afterPath="$PROJECT_DIR$/HTML/pay2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/pay3.html" afterPath="$PROJECT_DIR$/HTML/pay3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/pay4.html" afterPath="$PROJECT_DIR$/HTML/pay4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/pay5.html" afterPath="$PROJECT_DIR$/HTML/pay5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/pay6.html" afterPath="$PROJECT_DIR$/HTML/pay6.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/privacy.css" afterPath="$PROJECT_DIR$/CSS/privacy.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/privacy.html" afterPath="$PROJECT_DIR$/HTML/privacy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/safety1.html" afterPath="$PROJECT_DIR$/HTML/safety1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/safety2.html" afterPath="$PROJECT_DIR$/HTML/safety2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/safety3.html" afterPath="$PROJECT_DIR$/HTML/safety3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/terms.html" afterPath="$PROJECT_DIR$/HTML/terms.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/trust.css" afterPath="$PROJECT_DIR$/CSS/trust.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/trust.html" afterPath="$PROJECT_DIR$/HTML/trust.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Postmob.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,21 +60,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HTML/about.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30779755" vertical-offset="270" max-vertical-offset="1575">
-              <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+            <state vertical-scroll-proportion="-4.6" vertical-offset="760" max-vertical-offset="2025">
+              <caret line="71" column="53" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="53" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CSS/about.css">
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSS/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            <state vertical-scroll-proportion="-9.346154" vertical-offset="222" max-vertical-offset="4905">
+              <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="agency.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/agency.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.38145694" vertical-offset="2202" max-vertical-offset="13230">
+              <caret line="166" column="26" selection-start-line="166" selection-start-column="26" selection-end-line="166" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -97,12 +140,12 @@
         <option value="$PROJECT_DIR$/HTML/trust.html" />
         <option value="$PROJECT_DIR$/CSS/trust.css" />
         <option value="$PROJECT_DIR$/HTML/howitworks.html" />
-        <option value="$PROJECT_DIR$/CSS/agency.css" />
         <option value="$PROJECT_DIR$/CSS/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/CSS/index.css" />
-        <option value="$PROJECT_DIR$/HTML/index.html" />
         <option value="$PROJECT_DIR$/HTML/contact.html" />
         <option value="$PROJECT_DIR$/php/form.php" />
+        <option value="$PROJECT_DIR$/HTML/index.html" />
+        <option value="$PROJECT_DIR$/CSS/index.css" />
+        <option value="$PROJECT_DIR$/CSS/agency.css" />
       </list>
     </option>
   </component>
@@ -184,6 +227,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Postmob" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Postmob" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IMAGES" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -418,20 +475,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HTML/app1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5821727" vertical-offset="1472" max-vertical-offset="2190">
-          <caret line="126" column="9" selection-start-line="126" selection-start-column="9" selection-end-line="126" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/app2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5821727" vertical-offset="1067" max-vertical-offset="1785">
-          <caret line="99" column="9" selection-start-line="99" selection-start-column="9" selection-end-line="99" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/app3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5821727" vertical-offset="902" max-vertical-offset="1620">
@@ -719,51 +762,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/agency.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35629138" vertical-offset="2356" max-vertical-offset="13185">
-          <caret line="175" column="3" selection-start-line="175" selection-start-column="1" selection-end-line="175" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6357616" vertical-offset="60" max-vertical-offset="4770">
-          <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="2010">
-          <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/about.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.5389876" vertical-offset="0" max-vertical-offset="1680">
           <caret line="75" column="58" selection-start-line="75" selection-start-column="58" selection-end-line="75" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -771,14 +773,66 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13907285" vertical-offset="0" max-vertical-offset="1635">
           <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30779755" vertical-offset="270" max-vertical-offset="1575">
-          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.6420613" vertical-offset="499" max-vertical-offset="1575">
+          <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/about.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29801324" vertical-offset="0" max-vertical-offset="755">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Postmob-master/HTML/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1676301" vertical-offset="1288" max-vertical-offset="2010">
+          <caret line="35" column="69" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMAGES/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17880794" vertical-offset="0" max-vertical-offset="755">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.6" vertical-offset="760" max-vertical-offset="2025">
+          <caret line="71" column="53" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.346154" vertical-offset="222" max-vertical-offset="4905">
+          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38145694" vertical-offset="2202" max-vertical-offset="13230">
+          <caret line="166" column="26" selection-start-line="166" selection-start-column="26" selection-end-line="166" selection-end-column="26" />
           <folding />
         </state>
       </provider>
