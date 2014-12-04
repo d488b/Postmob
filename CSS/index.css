@@ -35,7 +35,6 @@ span {
     margin-top: 0px;
     border-top: 1px solid black;
     border-bottom: 1px solid black;
-
 }
             #claim {
                 color: #0083B3;
@@ -47,9 +46,11 @@ span {
                 }
                 #statement {
                     font-size: 7.5vmin;
+                    text-align: center;
                 }
                     #statement2 {
                         font-size: 3vmin;
+                        text-align: center;
                     }
                         #claim2 {
                             font-size: 5vmin;

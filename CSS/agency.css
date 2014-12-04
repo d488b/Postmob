@@ -175,7 +175,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #00A3DF !important;
+    /* background-color: #00A3DF !important; */
 }
 
 .navbar-default .navbar-brand {
@@ -212,7 +212,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 500;
+    font-weight: 700;
     letter-spacing: 1px;
     color: white;
     margin-top: 5px;
@@ -260,9 +260,9 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default.navbar-shrink {
-        padding-top: 15px;
+        padding-top: 12px;
         padding-bottom: 0px;
-        background-color: #0083B3;
+        background-color: #00A3DF;
     }
 
 }
@@ -858,7 +858,7 @@ ul.social-buttons li a:active {
 
 ::selection {
     text-shadow: none;
-    background: #0083B3;
+    background: #00A3DF;
 }
 
 img::selection {
