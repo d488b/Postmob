@@ -9,7 +9,7 @@
     font-size: 2vmin;
 }
 .font {
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Open Sans', sans-serif !important;
 }
 header {
     background-image: url('../IMAGES/background1.jpg') !important;

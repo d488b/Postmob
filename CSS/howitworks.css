@@ -6,7 +6,7 @@ header {
     #step1 {
         font-size: 6vw;
         padding-top: 77vh;
-        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-family: 'Open Sans', sans-serif !important;
         font-style: italic;
     }
 
@@ -69,5 +69,5 @@ header {
 }
 
 .font {
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Open Sans', sans-serif !important;
 }

@@ -175,7 +175,6 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    /* background-color: #00A3DF !important; */
 }
 
 .navbar-default .navbar-brand {
@@ -196,7 +195,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle {
     border-color: black;
-    background-color: #0083B3;
+    background-color: #00A3df;
     margin-top: 15px;
 }
 
@@ -278,7 +277,7 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    height: 96vh;
+    height: 100vh;
     opacity: 0.96;
 }
 
@@ -289,7 +288,7 @@ header .intro-text {
 header .intro-text .intro-lead-in {
     margin-bottom: 2%;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 22px;
+    font-size: 5vw;
     font-style: italic;
     line-height: 22px;
 }
@@ -312,8 +311,9 @@ header .intro-text .intro-heading {
     header .intro-text .intro-lead-in {
         font-size: 3.0vw;
         line-height: 40px;
-        text-align: left;
+        text-align: center;
         margin-left: 6%;
+        margin-top: 40px;
 }
 
     header .intro-text .intro-heading {
@@ -324,7 +324,7 @@ header .intro-text .intro-heading {
         font-weight: 700;
         line-height: 75px;
     
-        text-align: left;
+        text-align: center;
         margin-left: 6%;
 }
 }

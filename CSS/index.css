@@ -19,7 +19,7 @@ span {
     #download-button2 {
         border: 1px solid white;
         border-radius: 10px;
-        width: 18vmin !important;
+        width: 15vmin !important;
     }
 @media (max-width:770px) {
     header {
@@ -28,12 +28,12 @@ span {
     #name {
         margin-top: 20px !important;
     }
-    .container {
-        padding-left: 0 !important;
-    }
     #logo {
         margin-left: 25px !important;
     }
+}
+nav ul li a {
+    font-family: 'Open Sans', sans-serif !important;
 }
 #logo {
     height: 5vh;
@@ -41,6 +41,8 @@ span {
 }
         .container {
             width: 100% !important;
+            padding-left: 4%;
+            padding-right: 4%;
         }
             #name {
                 margin-top: 12px;
@@ -144,7 +146,7 @@ span {
                                                                     height: 90vmin;
                                                                 }
 #page1 {
-    height: 70vh;
+    height: 75vh;
     padding-top: 10px;
 }
             #selection {
@@ -280,7 +282,6 @@ span {
                                                             clear: left;
                                                         }
 footer {
-    height: 65px;
     background-color: #00A3DF !important;
     width: 100% !important;
     padding-top: 1%;
@@ -288,9 +289,14 @@ footer {
     padding-left: 1.4%;
     padding-right: 1.4%;
 }
+@media (min-width:770px) {
+    footer {
+        height: 65px;
+    }
+}
             .footer {
                 list-style: none;
-                padding-left: 0;
+                padding-left: 0 !important;
             }
 
                     footer a:visited {
@@ -307,7 +313,7 @@ footer {
                                     padding-top: 1px;
                                 }
                                     #company:first-child {
-                                        margin-left: 5%;
+                                        margin-left: 4%;
                                     }
                                                 #socials {
                                                     float: right;
