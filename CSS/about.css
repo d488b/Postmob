@@ -8,43 +8,43 @@ header {
     background-size: cover;
     -o-background-size: cover;
 }
-    header h2 {
-        text-align: center;
-        font-size: 7vmin;
-    }
-        .intro {
-            margin-top: 25vmin;
-            color: white;
+header h2 {
+    text-align: center;
+    font-size: 7vmin;
+}
+.intro {
+    margin-top: 25vmin;
+    color: white;
 
-        }
-            #about1 {
-                font-size: 3vmin;
-                padding-bottom: 5%;
-                margin-top: 1%;
-                font-family: 'Open Sans', sans-serif !important;
-                text-align: center;
-                margin-left: 15%;
-                margin-right: 15%;
-            }
-                footer {
-                    clear: left !important;
-                    bottom: 0;
-                }
+}
+#about1 {
+    font-size: 3vmin;
+    padding-bottom: 5%;
+    margin-top: 1%;
+    font-family: 'Open Sans', sans-serif !important;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+footer {
+    clear: left !important;
+    bottom: 0;
+}
 
 #container2 {
     background-color: white;
     height: 100%;
 }
-    #container2 p {
-        font-family: 'Open Sans', sans-serif !important;
-        margin-top: 5%;
-        font-size: 4vmin;
-        font-weight: bold;
-        margin-bottom: 2%;
-        text-align: center;
-        margin-left: 15%;
-        margin-right: 15%;
-    }
+#container2 p {
+    font-family: 'Open Sans', sans-serif !important;
+    margin-top: 5%;
+    font-size: 4vmin;
+    font-weight: bold;
+    margin-bottom: 2%;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
 
 #container3 {
     background-image: url('../IMAGES/desk.jpg') !important;
@@ -56,32 +56,32 @@ header {
     -o-background-size: cover;
     padding-bottom: 5%;
 }
-    #container3 img {
-        height: 7vmin;
-        margin-left: 15%;
-        margin-top: 5%;
-        float: left;
+#container3 img {
+    height: 7vmin;
+    margin-left: 15%;
+    margin-top: 5%;
+    float: left;
 
-    }
-        #container3 ul {
-            list-style: none;
-        }
-            #container3 p:first-child {
-                color: white;
-                font-size: 4vmin;
-                text-align: center;
-                padding-top: 5%;
-            }
-                #social {
-                    clear: left;
-                    margin-top: 15%;
-                    text-align: center;
-                    color: #0083B3;
-                    font-size: 3vmin;
-                }
-                    #shipping {
-                        text-align: center;
-                        color: white;
-                        font-size: 2.5vmin;
-                        margin-top: 5%;
-                    }
+}
+#container3 ul {
+    list-style: none;
+}
+#container3 p:first-child {
+    color: white;
+    font-size: 4vmin;
+    text-align: center;
+    padding-top: 5%;
+}
+#social {
+    clear: left;
+    margin-top: 15%;
+    text-align: center;
+    color: #0083B3;
+    font-size: 3vmin;
+}
+#shipping {
+    text-align: center;
+    color: white;
+    font-size: 2.5vmin;
+    margin-top: 5%;
+}
