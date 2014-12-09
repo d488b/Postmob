@@ -74,7 +74,7 @@ header {
                         margin-top: 2%;
                     }
                         #right-text1 {
-                            font-size: 3.5vw;
+                            font-size: 2vw;
                             margin-top: 7%;
                         }
 
@@ -114,25 +114,35 @@ header {
             font-size: 3vmin;
         }
             #spyglass {
-                display: block;
-                margin-left: auto;
-                margin-right: auto;
                 margin-top: 1%;
                 width: 30vmin;
+                margin-left: auto;
+                margin-right: auto;
+                display: block;
 
             }
                 #stars {
-                    display: block;
+                    width: 20vmin;
+                    margin-top: 2.1%;
+                    margin-bottom: 2.3%;
                     margin-left: auto;
                     margin-right: auto;
-                    width: 30vmin;
+                    display: block;
                 }
                     #backgroundcheck ul {
                         padding-left: 10%;
                         font-size: 3vmin;
                     }
-
-
+                        #way-rating h1 {
+                            padding-left: 5%;
+                            font-size: 5vmin;
+                        }
+                            #way-rating p {
+                                padding-left: 5%;
+                                padding-right: 10%;
+                                margin-top: 1%;
+                                font-size: 3vmin;
+                            }
 #twentyfourseven {
     background-image: url('../IMAGES/background3.jpg');
     background-size: 100% 100%;

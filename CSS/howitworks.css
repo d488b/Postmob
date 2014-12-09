@@ -12,7 +12,7 @@ header {
 
 .steps {
     background-color: #0083B3;
-    background-color: rgba(0,0,0,0.5);
+    background-color: rgba(0,0,0,0.5) !important;
     margin-top: 100px;
     position: absolute;
     width: 30vmax;
@@ -70,4 +70,16 @@ header {
 
 .font {
     font-family: 'Open Sans', sans-serif !important;
+}
+
+.custom-arrow {
+    height: 10vmin;
+    width: 10vmin;
+    margin-left: 43%;
+}
+
+@media (max-width:770px) {
+    header {
+        margin-top: 70px !important;
+    }
 }
