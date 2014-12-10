@@ -6,10 +6,15 @@
 }
 .postmob-lightblue {
     color: #4ebee8;
-    font-size: 2vmin;
 }
 .font {
     font-family: 'Open Sans', sans-serif !important;
+}
+.size1 {
+    font-size: 3vmin;
+}
+.size2 {
+    font-size: 3vmin;
 }
 header {
     background-image: url('../IMAGES/background1.jpg') !important;
@@ -27,14 +32,14 @@ header {
     }
 #choices {
     background-color: white;
-    margin-left: 0%;
+    margin-left: 0;
 }
     #container1 {
         float: left;
         width: 25%;
         margin-left: 5%;
         margin-top: 3%;
-        margin-bottom: 3%;
+        margin-bottom: 2%;
         margin-right: 2%;
         text-align: center;
     }
@@ -52,6 +57,15 @@ header {
                 margin-top: 3%;
                 text-align: center;
             }
+                @media ( max-width: 720px) {
+                    #container1 {
+                        width: 33% !important;
+                        margin-left: 2%;
+                    }
+                    #container2 {
+                        width: 26%;
+                    }
+                }
 #handling {
     height: 100%;
 }
@@ -96,12 +110,12 @@ header {
             height: 90vmin;
         }
             #protection p {
-                margin-top: 5%;
-                float: left;
-                margin-left: 6%;
+                padding-top: 5%;
                 font-size: 4.5vmin;
-                width: 60%;
                 text-align: center;
+                padding-left: 15%;
+                padding-right: 15%;
+                color: white;
             }
     #backgroundcheck h1 {
         padding-left: 5%;
@@ -150,15 +164,17 @@ header {
 }
     #twentyfourseven p {
         margin-bottom: 0;
-        padding-left: 60%;
         font-size: 3vmin;
         margin-top: 3%;
-        width: 95%;
+        margin-left: 5%;
+        margin-right: 5%;
     }
         #twentyfourseven h1 {
-            padding-top: 15%;
-            padding-left: 60%;
-            font-size: 5vmin;
+            font-size: 4vmin;
+            margin-bottom: 5%;
+            margin-left: 5%;
+            margin-right: 5%;
+            margin-top: 8% !important;
         }
         
 .images {
@@ -189,3 +205,12 @@ header {
     .margin-top2 {
         margin-top: 15px;
     }
+
+#background-color {
+    background-color: rgba(0,0,0,0.5) !important;
+    height: 40vmin;
+    width: 65vmin;
+    float: right;
+    margin-top: 5%;
+    margin-right: 2%;
+}

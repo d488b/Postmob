@@ -296,7 +296,6 @@ header .intro-text .intro-lead-in {
 header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 6.0vw;
     font-weight: 700;
     line-height: 50px;
@@ -304,7 +303,7 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
+        padding-top: 270px;
         padding-bottom: 300px;
     }
 
@@ -313,13 +312,12 @@ header .intro-text .intro-heading {
         line-height: 40px;
         text-align: center;
         margin-left: 6%;
-        margin-top: 40px;
+        margin-top: 2%;
 }
 
     header .intro-text .intro-heading {
         margin-bottom: 5px;
         text-transform: uppercase;
-        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 62px;
         font-weight: 700;
         line-height: 75px;

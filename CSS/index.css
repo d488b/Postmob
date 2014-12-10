@@ -1,3 +1,7 @@
+@font-face { font-family: brandongrotesque; src: url('../fonts/brandongrotesque-bold-webfont.ttf'); }
+.font2 {
+    font-family: brandongrotesque, sans-serif;
+}
 .bold {
     font-weight: bold;
 }
@@ -24,6 +28,10 @@ span {
         width: 17vmin !important;
         padding-right: 5px;
     }
+        #apple {
+            width: 25vmin;
+            margin-top: 2%;
+        }
 @media (max-width:770px) {
     header {
         margin-top: 50px;
