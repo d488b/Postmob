@@ -16,6 +16,18 @@
     <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('.thumbnails a').on('click', function () {
+                var eq = $(this).index();
+
+                $('.main .big').removeClass('show');
+                $('.main .big').eq(eq).addClass('show');
+            });
+        });
+
+    </script>
 </head>
 <body>
 <nav class="navbar navbar-default navbar-fixed-top">
@@ -68,17 +80,38 @@
         price and time of job. Postmob wants to create a network, where people who are traveling can
         earn extra cash by taking advantage of their route and delivering products that the user wants to send. </div>
 </div>
-<!--<div id="container3">
+<div id="container3">
     <p>Our Core Values</p>
-    <ul>
-        <li><img src="../IMAGES/community.png" alt="shipping"/></li>
-        <li><img src="../IMAGES/socialshipping.png" alt="shipping"/></li>
-        <li><img src="../IMAGES/move.png" alt="shipping"/></li>
-        <li><img src="../IMAGES/think.png" alt="shipping"/></li>
-    </ul>
-    <p id="social">SOCIAL SHIPPING</p>
-    <p id="shipping">Shipping should be fun. Postmob fosters THE positive social shipping experience.</p>
-</div>-->
+    <div id="gallery">
+
+        <div class="thumbnails">
+            <a><img src="../IMAGES/think.png" alt="shipping"/></a>
+            <a><img src="../IMAGES/socialshipping.png" alt="shipping"/></a>
+            <a><img src="../IMAGES/community.png" alt="shipping"/></a>
+
+            <a><img src="../IMAGES/move.png" alt="shipping"/></a>
+
+        </div>
+        <div class="main">
+            <div class="big show">
+                <p>Think Bigger</p>
+                <p>We at PostMob believe that thinking bigger is a never ending process. There's always room to get better at what we do.</p>
+            </div>
+            <div class="big">
+                <p>Move Fast</p>
+                <p>In the fast-paced economy we live in, moving fast is a requirement for innovation. </p>
+            </div>
+            <div class="big">
+                <p>Social Shipping</p>
+                <p>Shipping should be fun. Postmob fosters THE positive social shipping experience.</p>
+            </div>
+            <div class="big">
+                <p>Community</p>
+                <p>Everyone can be a part of Postmob's community. The more the individuals contribute the more the community benefits.</p>
+            </div>
+        </div>
+    </div>
+</div>
 <footer>
     <div id="company">
         <ul class="footer">
