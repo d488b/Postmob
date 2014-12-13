@@ -42,6 +42,9 @@ span {
     #logo {
         margin-left: 25px !important;
     }
+    .intro-heading {
+        margin-bottom: 0 !important;
+    }
 }
 nav ul li a {
     font-family: 'Open Sans', sans-serif !important;
@@ -119,11 +122,12 @@ nav ul li a {
                                                 #phone {
                                                     float: right;
                                                     width: 60vw;
-                                                    height: 80%;
+                                                    height: 85vmin;
                                                 }
 @media (max-width:770px) {
     #phone {
         margin-top: 5%;
+
     }
     #claim2 {
         width: 35%;
@@ -183,7 +187,7 @@ nav ul li a {
                                                                     padding-top: 5%;
                                                                     background-color: #E5F5FE;
                                                                     clear: both;
-                                                                    height: 90vmin;
+                                                                    height: 100%;
                                                                 }
 #page1 {
     height: 80vmin;
@@ -192,6 +196,15 @@ nav ul li a {
     background-image: url('../IMAGES/iphone22.png');
     background-size: 100% 100%;
 }
+    #page1 p {
+        float: right;
+        width: 50%;
+        padding-left: 10%;
+        color: white;
+        font-size: 3.5vmin;
+        padding-right: 15%;
+        margin-top: 10%;
+    }
             #selection {
                 padding-left: 5%;
                 margin-top: 5%;
@@ -217,9 +230,9 @@ nav ul li a {
                     }
                         #info4 {
                             float: right;
+                            clear: right;
                             width: 50%;
                             padding-left: 10%;
-                            margin-top: 13%;
                             color: white;
                             margin-bottom: 5%;
                             font-size: 2.6vmin;
