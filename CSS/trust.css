@@ -191,14 +191,15 @@ header {
 
 .person1 {
     margin-top: 14px;
+    width: 25vmin;
 }
-
+.check-box {
+    width: 25vmin;
+}
     .person {
         margin-top: 10px;
     }
-    .person1 {
-        margin-top: 5px;
-    }
+
     .margin-top {
         margin-top: 10px;
     }

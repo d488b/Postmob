@@ -10,11 +10,12 @@
 #title2 {
     font-size: 3vmin !important;
     font-weight: normal !important;
-    margin-bottom: 3%;
     margin-left: 0 !important;
+    margin-top: 5% !important;
 }
 
 .question {
+    margin-top: 2% !important;
     margin-left: 25% !important;
     font-size: 3.5vmin !important;
 }
@@ -25,6 +26,7 @@
     width: 50% !important;
     margin-left: auto !important;
     margin-right: auto !important;
+    margin-top: 2% !important;
 }
 
 #help1 {

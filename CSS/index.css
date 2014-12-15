@@ -35,6 +35,7 @@ span {
 @media (max-width:770px) {
     header {
         margin-top: 50px;
+        height: 95vh !important;
 }
     #name {
         margin-top: 20px !important;
@@ -92,7 +93,7 @@ nav ul li a {
                             #claim3 {
                                 color: #0083B3;
                                 font-size: 3vmin;
-                                width: 30%;
+                                width: 34%;
                                 margin-left: 5%;
                                 float: left;
                                 clear: left;
@@ -142,13 +143,17 @@ nav ul li a {
     #declaration1 {
         width: 30% !important;
         margin-left: 8% !important;
+        margin-right: 2% !important;
     }
     #circles {
         margin-top: 5% !important;
         margin-bottom: 2% !important;
     }
     #third {
-        margin-left: 5% !important;
+        margin-left: 7% !important;
+    }
+    #second {
+        padding-left: 15% !important;
     }
 }
             .titles {
@@ -162,8 +167,8 @@ nav ul li a {
                                                         float: left;
                                                         color: #0083B3;
                                                         font-size: 3vmin;
-                                                        margin-right: 4%;
-                                                        margin-left: 13%;
+                                                        margin-right: 7%;
+                                                        margin-left: 10%;
                                                         clear: left;
 
 }
@@ -172,7 +177,7 @@ nav ul li a {
                                                             float: left;
                                                             color: #0083B3;
                                                             font-size: 3vmin;
-                                                            margin-right: 7%;
+                                                            margin-right: 5%;
                                                         
 }
                                                             #declaration3 {
@@ -189,6 +194,17 @@ nav ul li a {
                                                                     clear: both;
                                                                     height: 100%;
                                                                 }
+                                                                    #third {
+                                                                        width: 25%;
+                                                                        margin-left: 4%;
+                                                                    }
+                                                                        #second {
+                                                                            width: 25%;
+                                                                            margin-left: 4%;
+                                                                        }
+                                                                            #first {
+                                                                                width: 25%;
+                                                                            }
 #page1 {
     height: 80vmin;
     padding-top: 10px;
