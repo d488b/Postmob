@@ -122,12 +122,15 @@ nav ul li a {
                                             }
                                                 #phone {
                                                     float: right;
-                                                    width: 60vw;
+                                                    width: 50vw;
                                                     height: 85vmin;
+                                                    margin-right: 5%;
                                                 }
 @media (max-width:770px) {
     #phone {
-        margin-top: 5%;
+        margin-top: 5% !important;
+        height: 70vmin !important;
+        width: 55vmin !important;
 
     }
     #claim2 {
@@ -155,6 +158,10 @@ nav ul li a {
     #second {
         padding-left: 15% !important;
     }
+    #page1 p {
+        font-size: 3vmin !important;
+        padding-left: 8% !important;
+    }
 }
             .titles {
                 float: left;
@@ -170,6 +177,7 @@ nav ul li a {
                                                         margin-right: 7%;
                                                         margin-left: 10%;
                                                         clear: left;
+                                                        text-align: center;
 
 }
                                                         #declaration2 {
@@ -178,6 +186,7 @@ nav ul li a {
                                                             color: #0083B3;
                                                             font-size: 3vmin;
                                                             margin-right: 5%;
+                                                            text-align: center;
                                                         
 }
                                                             #declaration3 {
@@ -186,6 +195,7 @@ nav ul li a {
                                                                 color: #0083B3;
                                                                 font-size: 3vmin;
                                                                 margin-bottom: 8%;
+                                                                text-align: center;
 
 }
                                                                 #know-price {
@@ -216,11 +226,9 @@ nav ul li a {
         float: right;
         color: white;
         width: 50%;
-        font-size: 3.7vmin;
-        padding-right: 15%;
+        font-size: 3.5vmin;
         margin-top: 10%;
-        clear: both;
-        padding-left: 10%;
+        padding-left: 13%;
     }
             #selection {
                 padding-left: 5%;
@@ -254,6 +262,7 @@ nav ul li a {
                             margin-bottom: 5%;
                             font-size: 2.6vmin;
                             padding-right: 10%;
+                            text-align: center;
                         }
 
                                     #choices {
@@ -354,6 +363,72 @@ nav ul li a {
                                                             float: left;
                                                             clear: left;
                                                         }
+
+#subscribe {
+    height: 75vmin;
+    background-color: #C7EBF9;
+}
+    #subscribe form {
+        text-align: center;
+        padding-top: 3%;
+    }
+        #subscribe img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            padding-top: 5%;
+            width: 70vmin;
+        }
+            #white-text {
+                color: white;
+                text-align: center;
+                font-size: 4vmin;
+                margin-top: 2%;
+            }
+                #subscribe form input {
+                    background-color: #95CEE2;
+                    border: 2px solid #53C0E9;
+                    border-radius: 5px;
+                }
+                    .email123 {
+                        width: 40vmin;
+                        height: 5vmin;
+                    }
+
+.email123::-webkit-input-placeholder,
+#textarea_2::-webkit-input-placeholder
+{
+    color:    #66AFCC;
+    text-align: center;
+    font-size: 2vmin;
+}
+
+.email123:-moz-placeholder,
+#textarea_2:-moz-placeholder
+{
+    color:    #66AFCC;
+    text-align: center;
+}
+
+.email123::-moz-placeholder,
+#textarea_2::-moz-placeholder
+{
+    color:    #66AFCC;
+    text-align: center;
+}
+
+.email123:-ms-input-placeholder,
+#textarea_2:-ms-input-placeholder
+{
+    color:    #66AFCC;
+    text-align: center;
+}
+#submit123 {
+    color: #66AFCC;
+    font-size: 2vmin;
+}
+
+
 footer {
     background-color: #00A3DF !important;
     width: 100% !important;
