@@ -19,7 +19,6 @@ $location = "http://www.postmobapp.com/index.html";
 $sender = $recipient;
 
 # MAIL BODY
-$body .= "Name: ".$_REQUEST['Name']." \n";
 $body .= "Email: ".$_REQUEST['Email']." \n";
 # add more fields here if required
 

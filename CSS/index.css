@@ -364,65 +364,27 @@ nav ul li a {
                                                             clear: left;
                                                         }
 
-#subscribe {
-    height: 75vmin;
-    background-color: #C7EBF9;
-}
-    #subscribe form {
-        text-align: center;
-        padding-top: 3%;
-    }
-        #subscribe img {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            padding-top: 5%;
-            width: 70vmin;
-        }
-            #white-text {
-                color: white;
-                text-align: center;
-                font-size: 4vmin;
-                margin-top: 2%;
-            }
-                #subscribe form input {
-                    background-color: #95CEE2;
-                    border: 2px solid #53C0E9;
-                    border-radius: 5px;
-                }
-                    .email123 {
-                        width: 40vmin;
-                        height: 5vmin;
-                    }
 
 .email123::-webkit-input-placeholder,
-#textarea_2::-webkit-input-placeholder
 {
-    color:    #66AFCC;
-    text-align: center;
-    font-size: 2vmin;
+    color:    gray;
 }
 
 .email123:-moz-placeholder,
-#textarea_2:-moz-placeholder
 {
-    color:    #66AFCC;
-    text-align: center;
+    color:    gray;
 }
 
 .email123::-moz-placeholder,
-#textarea_2::-moz-placeholder
 {
-    color:    #66AFCC;
-    text-align: center;
+    color:    gray;
 }
 
 .email123:-ms-input-placeholder,
-#textarea_2:-ms-input-placeholder
 {
-    color:    #66AFCC;
-    text-align: center;
+    color:    gray;
 }
+
 #submit123 {
     color: #66AFCC;
     font-size: 2vmin;
@@ -482,4 +444,44 @@ footer {
 
 
 
+#form {
+    background-color: rgba(0,0,0,.5);
+    width: 70vmin;
+    height: 8vmin;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+.email123 {
+    float: left;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    height: 70%;
+    border-radius: 5px;
+    width: 70%;
+    margin-left: 1.5%;
+    padding-left: 5%;
+    font-size: 2.5vmin;
+}
+#submit123 {
+    margin-top: 2%;
+    height: 70%;
+    float: left;
+    margin-left: 2%;
+    border-radius: 5px;
+    background-color: #0083B3;
+    color: white;
+    width: 25%;
+    font-size: 2.5vmin;
 
+}
+
+#updates {
+    font-size: 4vmin;
+    margin-top: 2%;
+}
+
+textarea:focus, input:focus {
+    color: gray;
+}

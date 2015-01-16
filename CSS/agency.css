@@ -277,8 +277,8 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    height: 100vh;
     opacity: 0.96;
+    min-height: 100vmin;
 }
 
 header .intro-text {
@@ -304,7 +304,7 @@ header .intro-text .intro-heading {
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 270px;
-        padding-bottom: 300px;
+        padding-bottom: 100px;
     }
 
     header .intro-text .intro-lead-in {
