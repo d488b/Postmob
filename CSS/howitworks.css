@@ -18,7 +18,7 @@ header {
     background-color: rgba(0,0,0,0.5) !important;
     margin-top: 100px;
     position: absolute;
-    min-width: 30vmax;
+    width: 30vmax;
     right: 0;
     margin-right: 30px;
 }
