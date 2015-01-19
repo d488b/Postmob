@@ -1,0 +1,15 @@
+#messenger-top {
+    background-image: url("../IMAGES/messenger1.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vmin;
+}
+
+@media ( max-width:770px ) {
+    #messenger-top {
+        margin-top: 70px;
+    }
+    #messenger-top {
+        background-size: 100% 100%;
+    }
+}
