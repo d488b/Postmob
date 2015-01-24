@@ -18,6 +18,7 @@
     margin-top: 2% !important;
     margin-left: 25% !important;
     font-size: 3.5vmin !important;
+    text-align: justify;
 }
 
 .answer {
@@ -27,6 +28,7 @@
     margin-left: auto !important;
     margin-right: auto !important;
     margin-top: 2% !important;
+    text-align: justify;
 }
 
 #help1 {
@@ -37,16 +39,18 @@
     margin-bottom: 5%;
 }
 .list1 {
-    width: 60%;
+    width: 50%;
     margin-left: 25%;
     list-style: disc;
     font-weight: bold;
     font-size: 2vmin;
+    text-align: justify;
 }
 
 .list3 {
     list-style: circle !important;
     margin-left: 5%;
+    text-align: justify;
 }
 
 span {

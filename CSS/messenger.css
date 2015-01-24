@@ -1,15 +1,105 @@
+.site-font {
+    font-family: 'Open Sans', sans-serif !important;
+}
+.text-color {
+    color: #0083B3;
+}
+.weight {
+    font-weight: 200;
+}
+.bottom-margin {
+    margin-bottom: 5%;
+}
 #messenger-top {
     background-image: url("../IMAGES/messenger1.png");
-    background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 100% 100%;
     height: 100vmin;
 }
+#commute {
+    background-color: rgba(0,0,0,0.5) !important;
+    margin-top: 50vmin;
+    position: absolute;
+    width: 100%;
+    height: 45vmin;
+    padding-left: 5%;
+}
+    #commute a {
+        float: right;
+        margin-right: 5%;
+        border: 1px solid white;
+        padding: 2vmin;
+        font-size: 4vmin;
+    }
+        #top {
+            font-size: 6vmin;
+        }
+            #bottom {
+                font-size: 4vmin;
+                margin-top: 5%;
+            }
+#what-is {
+    background-color: #f3f3f3;
+    height: 100%;
+}
+    #title {
+        font-size: 4.5vmin;
+        text-align: center;
+    }
+        #stamp1 {
+            margin-left: 5%;
+            float: left;
+            height: 30vmin;
+            width: 30vmin;
+        }
+            #information {
+                font-size: 2.5vmin;
+                float: left;
+                width: 55vw;
+                margin-left: 5%;
+            }
+#messenger-middle {
+    clear: left;
+    height: 80vmin;
+}
+    #messenger-phone {
+        height: 60vmin;
+        margin-top: 5%;
+        margin-left: 5%;
+        float: left;
+        margin-right: 10%;
+    }
+        #right-text {
+            padding-top: 10%;
+            font-size: 4vmin;
+        }
+            #right-text p  {
+                font-size: 5vmin;
+            }
+#faqs {
+    background-color: #ECF4F7;
+    font-size: 2.3vmin;
+    padding: 5%;
+}
+    #faqs p {
+        text-align: center;
+        font-size: 3.5vmin;
+    }
+        #faqs li {
+            list-style-type: none;
+        }
+            #faqs a {
+                font-size: 3vmin;
+                font-weight: 300;
+                border: 1px solid #0083B3;
+                padding: 1vmin;
+                margin-left: 43%;
+            }
+
+
+
 
 @media ( max-width:770px ) {
     #messenger-top {
         margin-top: 70px;
-    }
-    #messenger-top {
-        background-size: 100% 100%;
     }
 }
